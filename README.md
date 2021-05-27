@@ -1,6 +1,7 @@
 # Hi, I'm Buddhi 👋👨‍💻
 
 <img src="https://raw.githubusercontent.com/buddhirangana/buddhirangana/master/gh-header-image.png" alt="banner that says Buddhi Rangana - Information System Assistant, Content Creator and Vlogger">
+
 "Dreams don't work unless you do."
 
 Mr. Buddhi Rangana serves as the Information System Assistant at the <a href="https://niibs.edu.lk"> Nāgānanda International Institute for Buddhist Studies</a> (NIIBS). His interest in information and technology led him to successfully complete a Diploma in Information Technology from the Nāgānanda International Institute for Buddhist Studies.
