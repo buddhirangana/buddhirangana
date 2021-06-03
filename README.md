@@ -4,7 +4,7 @@
 
 "Dreams don't work unless you do."
 
-Mr. Buddhi Rangana serves as the Information System Assistant at the <a href="https://niibs.edu.lk"> Nāgānanda International Institute for Buddhist Studies</a> (NIIBS). His interest in information and technology led him to successfully complete a Diploma in Information Technology from the Nāgānanda International Institute for Buddhist Studies.
+I serves as the Information System Assistant at the <a href="https://www.niibs.edu.lk">Nāgānanda International Institute for Buddhist Studies</a> (NIIBS). I interest in information and technology led I to successfully complete a Diploma in Information Technology from the Nāgānanda International Institute for Buddhist Studies.
 
 I passionate about making open-source more accessible, creating technology to elevate people, and building community. I have 1 years of experience in Technology Content Creator at Youtube. I Skilled in Wordpress, Graphic Design, Web Design, Java & Social Media.
 
