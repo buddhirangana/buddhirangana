@@ -29,11 +29,10 @@ I serves as the Information System Assistant 💼 at the Nāgānanda Internation
 <!-- GitHub stats -->
 <b>⚡ My GitHub Statistics</b>
 
-<p>
+
 <!-- Most Used Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buddhirangana&show_icons=true&theme=gotham)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=buddhirangana&show_icons=true&theme=gotham)
-</p>
 
 ---
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=buddhirangana)  
