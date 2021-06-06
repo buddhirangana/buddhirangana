@@ -3,7 +3,7 @@
 ![alt text](https://raw.githubusercontent.com/buddhirangana/buddhirangana/master/GitHub-Profile-Cover.png)
 
 <!-- About me -->
-<p>
+<p align="justify">
 I serves as the Information System Assistant 💼 at the Nāgānanda International Institute for Buddhist Studies (NIIBS). I interest in Information Technology led I to successfully complete a Diploma in Information Technology 🎓 from the Nāgānanda International Institute for Buddhist Studies 🏛. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems ✨👨🏻‍💻.
 </p>
 
