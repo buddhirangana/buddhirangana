@@ -14,11 +14,11 @@ I serves as the Information System Assistant 💼 at the Nāgānanda Internation
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://twitter.com/buddhirangana" target="blank"><img align="center" src="https://github.com/buddhirangana/buddhirangana/blob/master/assets/twitter.svg" alt="buddhirangana" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/buddhirangana" target="blank"><img align="center" src="https://github.com/buddhirangana/buddhirangana/blob/master/assets/linkedin.svg" alt="buddhirangana" height="30" width="30" /></a>
-<a href="https://fb.com/buddhi.rangana.official" target="blank"><img align="center" src="https://github.com/buddhirangana/buddhirangana/blob/master/assets/facebook.svg" alt="buddhirangana" height="30" width="30" /></a>
-<a href="https://instagram.com/buddhirangana" target="blank"><img align="center" src="https://github.com/buddhirangana/buddhirangana/blob/master/assets/instagram.svg" alt="buddhirangana" height="30" width="30" /></a>
-<a href="https://youtube.com/c/tecroom" target="blank"><img align="center" src="https://github.com/buddhirangana/buddhirangana/blob/master/assets/youtube.svg" alt="buddhirangana" height="30" width="30" /></a>
+<a href="https://twitter.com/buddhirangana" target="blank"><img align="center" src="https://github.com/buddhirangana/buddhirangana/blob/main/assets/twitter.svg" alt="buddhirangana" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/buddhirangana" target="blank"><img align="center" src="https://github.com/buddhirangana/buddhirangana/blob/main/assets/linkedin.svg" alt="buddhirangana" height="30" width="30" /></a>
+<a href="https://fb.com/buddhi.rangana.official" target="blank"><img align="center" src="https://github.com/buddhirangana/buddhirangana/blob/main/assets/facebook.svg" alt="buddhirangana" height="30" width="30" /></a>
+<a href="https://instagram.com/buddhirangana" target="blank"><img align="center" src="https://github.com/buddhirangana/buddhirangana/blob/main/assets/instagram.svg" alt="buddhirangana" height="30" width="30" /></a>
+<a href="https://youtube.com/c/tecroom" target="blank"><img align="center" src="https://github.com/buddhirangana/buddhirangana/blob/main/assets/youtube.svg" alt="tecroom" height="30" width="30" /></a>
 </p>
 
 <!-- Languages and tools -->
