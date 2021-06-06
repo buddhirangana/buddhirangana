@@ -8,9 +8,7 @@ I serves as the Information System Assistant 💼 at the Nāgānanda Internation
 </p>
 
 <!-- visitor counter -->
-<p align="center">
-  ![Profile views](https://gpvc.arturio.dev/buddhirangana)
-</p>
+![Profile views](https://gpvc.arturio.dev/buddhirangana)
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
