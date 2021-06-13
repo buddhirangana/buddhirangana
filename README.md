@@ -8,6 +8,7 @@ I serves as the Information System Assistant 💼 at the Nāgānanda Internation
 </p>
 
 <!-- visitor counter -->
+![Profile views](https://komarev.com/ghpvc/?username=buddhirangana&color=green)
 ![Profile views](https://gpvc.arturio.dev/buddhirangana)
 
 <!-- Connect with me -->
