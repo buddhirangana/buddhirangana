@@ -36,6 +36,11 @@ I serves as the Information System Assistant 💼 at the Nāgānanda Internation
 
 ### My Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How To Create A Telegram Bot Without Coding in Sinhala ](https://www.youtube.com/watch?v=vxx7858qw7I)
+- [Google Diwali Festival ](https://www.youtube.com/watch?v=4hIFhY_ggJk)
+- [How to Protect and Create a Secure, Strong Password in Sinhala ](https://www.youtube.com/watch?v=HDA0DUHbZ3s)
+- [How To Create A Telegram Group In 2021 ](https://www.youtube.com/watch?v=FbQhuwi_x00)
+- [Google Snake Game ](https://www.youtube.com/watch?v=T6rcj9YG2WQ)
 <!-- YOUTUBE:END -->
 
 ---
