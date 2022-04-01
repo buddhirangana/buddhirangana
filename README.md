@@ -34,6 +34,10 @@ I serves as the Information System Assistant 💼 at the Nāgānanda Internation
 - [Apple සමාගම රුසියාවේ තම නිෂ්පාදන අලෙවිය නතර කරයි](https://tecroom.lk/apple-halts-product-sales-in-russia/)
 <!-- BLOG-POST-LIST:END -->
 
+### My Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 ---
 <!-- GitHub stats -->
 <b>⚡ My GitHub Statistics</b>
