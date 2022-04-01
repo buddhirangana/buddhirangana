@@ -35,6 +35,8 @@ I serves as the Information System Assistant 💼 at the Nāgānanda Internation
 <!-- BLOG-POST-LIST:END -->
 
 ### My Latest YouTube Videos
+<table>
+<tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=vxx7858qw7I"><img width="140px" src="https://i.ytimg.com/vi/vxx7858qw7I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vxx7858qw7I">How To Create A Telegram Bot Without Coding in Sinhala | Telegram Welcome Bot | Telegram Bot</a><br/>Feb 27, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=4hIFhY_ggJk"><img width="140px" src="https://i.ytimg.com/vi/4hIFhY_ggJk/mqdefault.jpg"></a></td>
@@ -46,6 +48,8 @@ I serves as the Information System Assistant 💼 at the Nāgānanda Internation
 <tr><td><a href="https://www.youtube.com/watch?v=T6rcj9YG2WQ"><img width="140px" src="https://i.ytimg.com/vi/T6rcj9YG2WQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=T6rcj9YG2WQ">Google Snake Game | Play Snake Game Short | Google Snake | Google Fun Tricks #TECROOM_YOUTUBE_SHORT</a><br/>Dec 5, 2021</td></tr>
 <!-- YOUTUBE:END -->
+</tbody>
+<table>
 
 ---
 <!-- GitHub stats -->
