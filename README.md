@@ -27,6 +27,11 @@ I serves as the Information System Assistant 💼 at the Nāgānanda Internation
 
 # Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [අපිට නිතර දකින්නට ලැබෙන අන්තර්ජාලය හා සම්බන්ධ කෙටි වචන කිහිපයක තේරුම්](https://tecroom.lk/a-list-of-technology-abbreviations-commonly-used/)
+- [ඔයාටම කියලා Telegram Bot කෙනෙක් හදාගන්න පුළුවන් ලේසිම ක්‍රමය](https://tecroom.lk/the-easiest-way-to-make-your-own-telegram-bot/)
+- [මොකක්ද මේ Programming කියන්නේ?](https://tecroom.lk/what-is-programming/)
+- [TikTok වීඩියෝවක උපරිම දිග මිනිත්තු 10 දක්වා පුළුල් කරයි](https://tecroom.lk/tiktok-maximum-video-length-10-minutes/)
+- [Apple සමාගම රුසියාවේ තම නිෂ්පාදන අලෙවිය නතර කරයි](https://tecroom.lk/apple-halts-product-sales-in-russia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
