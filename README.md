@@ -27,11 +27,11 @@ I serves as the Information System Assistant 💼 at the Nāgānanda Internation
 
 ### Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Facebook වල #Hashtags හරියට Trend කරන්නේ කොහොමද? Comment කරා කියලා Trend වෙනවාද?](https://tecroom.lk/how-to-trend-hashtags-on-facebook/)
 - [අධ්‍යාපනය හදාරන ඔබ දැනගත යුතුම වෙබ් අඩවි 07ක්](https://tecroom.lk/7-useful-websites-for-students/)
 - [Fiverr කියන්නේ මොකක්ද? Fiverr වලින් මුදල් උපයන්නේ කොහොමද?](https://tecroom.lk/what-is-fiverr-everything-to-know-about-the-online-marketplace/)
 - [VPN කියන්නේ මොකක්ද? අපිට VPN එකක් අවශ්‍ය වෙන්නේ ඇයි?](https://tecroom.lk/what-is-vpn/)
 - [අපිට නිතර දකින්නට ලැබෙන අන්තර්ජාලය හා සම්බන්ධ කෙටි වචන කිහිපයක තේරුම්](https://tecroom.lk/a-list-of-technology-abbreviations-commonly-used/)
-- [ඔයාටම කියලා Telegram Bot කෙනෙක් හදාගන්න පුළුවන් ලේසිම ක්‍රමය](https://tecroom.lk/the-easiest-way-to-make-your-own-telegram-bot/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Latest YouTube Videos
