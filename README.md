@@ -27,11 +27,11 @@ I serves as the Information System Assistant 💼 at the Nāgānanda Internation
 
 ### Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ප්‍රසිද්ධ ඉන්දියානු චිත්‍රපට මත පදනම් වූ Mobile Games 5ක්](https://tecroom.lk/5-mobile-games-based-on-famous-indian-movies/)
 - [Apple iPhone 14 Series වල Front Camera එක සඳහා නව පහසුකමක් ලබාදීමේ සුදානමක්](https://tecroom.lk/apple-could-be-upgrading-the-front-camera-for-the-iphone-14-series/)
 - [Google Chrome Web Browser එක සඳහා හොඳම VPN Extensions 5 ක්](https://tecroom.lk/best-5-vpn-extensions-for-google-chrome/)
 - [Twitter හි නව හිමිකරු Elon Musk ද?](https://tecroom.lk/elon-musk-is-now-twitters-largest-shareholder/)
 - [Facebook වල #Hashtags හරියට Trend කරන්නේ කොහොමද? Comment කරා කියලා Trend වෙනවාද?](https://tecroom.lk/how-to-trend-hashtags-on-facebook/)
-- [අධ්‍යාපනය හදාරන ඔබ දැනගත යුතුම වෙබ් අඩවි 07ක්](https://tecroom.lk/7-useful-websites-for-students/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Latest YouTube Videos
