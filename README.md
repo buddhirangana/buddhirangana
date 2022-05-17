@@ -27,11 +27,11 @@ I serves as the Information System Assistant 💼 at the Nāgānanda Internation
 
 ### Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google සහ Apple සමාගම් විසින් භාවිතා නොකරන Apps ඉවත් කිරීමට සුදානම් වේ](https://tecroom.lk/google-and-apple-remove-unused-apps-from-the-play-store-and-app-store/)
 - [Google සමාගම මේ වසරේ අගෝස්තුවේ සිට YouTube Go සේවාව නවතා දැමීමට සුදානම් වේ](https://tecroom.lk/youtube-go-is-going-away-in-august-of-this-year/)
 - [Apple සමාගම විසින් iPod Touch නිෂ්පාදනය නවතා දමයි](https://tecroom.lk/apple-discontinues-ipod-touch-ending-20-year-run-of-iconic-ipod-brand/)
 - [පසුගිය කාර්තුවේ Android වෙළඳපල වර්ධනයට වඩා වැඩි වර්ධනයක් Apple සමාගම විසින් අත් කර ගනී](https://tecroom.lk/entire-android-industry-cant-compete-with-apples-growth-last-quarter/)
 - [නිකං තියෙන TikTok Account එකෙන් සල්ලි හොයන්න පුළුවන් ක්‍රම](https://tecroom.lk/how-do-you-make-money-on-tiktok/)
-- [Telegram සඳහා නව Premium Subscription එකක් එක්කිරීමේ සුදානමක්](https://tecroom.lk/telegram-premium-appears-in-beta-with-exclusive-reactions-and-stickers/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Latest YouTube Videos
