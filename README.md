@@ -27,11 +27,11 @@ I serves as the Information System Assistant 💼 at the Nāgānanda Internation
 
 ### Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp Status සඳහා Link Previews පහසුකම එකතු කිරීමට සුදානම් වේ](https://tecroom.lk/whatsapp-is-working-on-rich-link-previews-for-text-status-updates/)
 - [Apple සමාගම විසින් Subscription Apps සඳහා ස්වයංක්‍රීයව ගාස්තු අය කිරීමට ඉඩ සලසා දෙයි](https://tecroom.lk/apple-will-let-apps-charge-higher-subscription-automatically/)
 - [Apex Legends Mobile දැන් Android සහ iOS වෙත](https://tecroom.lk/apex-legends-mobile-is-now-available-on-android-and-ios/)
 - [USB-C Port එක සහිත ප්‍රථම Apple iPhone දුරකථනය 2023 දී](https://tecroom.lk/the-iphone-15-to-finally-adopt-usb-c-in-2023/)
 - [Microsoft Edge සඳහා ⁣නොමිලේ VPN සේවාවක් ලබා දීමේ සුදානමක්](https://tecroom.lk/microsoft-edge-to-get-a-free-vpn-feature-for-privacy/)
-- [Google සහ Apple සමාගම් විසින් භාවිතා නොකරන Apps ඉවත් කිරීමට සුදානම් වේ](https://tecroom.lk/google-and-apple-remove-unused-apps-from-the-play-store-and-app-store/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Latest YouTube Videos
