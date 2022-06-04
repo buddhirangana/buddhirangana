@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Buddhi Rangana 👨‍💻
+# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">, I'm Buddhi Rangana 👨‍💻
 
 ![alt text](https://raw.githubusercontent.com/buddhirangana/buddhirangana/master/GitHub-Profile-Cover.png)
 
