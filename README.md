@@ -54,17 +54,8 @@ I serves as the Information System Assistant 💼 at the Nāgānanda Internation
 ---
 <!-- GitHub stats -->
 <b>⚡ My GitHub Statistics</b>
-
-
-<!-- Most Used Languages -->
-  <!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buddhirangana&show_icons=true&theme=gotham)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=buddhirangana&show_icons=true&theme=gotham)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=buddhirangana&theme=gotham) 
--->
   
-<a href="https://github.com/buddhirangana?tab=stars"><img align="center" src="https://github-readme-stats.vercel.app/api?username=buddhirangana&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia" alt="Buddhi Rangana's github stats" /></a> <a href="https://github.com/buddhirangana?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhirangana&layout=compact&theme=algolia&hide_border=true" /></a> 
+<a href="https://github.com/buddhirangana?tab=stars"><img align="center" src="https://github-readme-stats.vercel.app/api?username=buddhirangana&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia" alt="Buddhi Rangana's github stats" /></a> <a href="https://github.com/buddhirangana?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhirangana&layout=compact&langs_count=6&theme=algolia" /></a> 
 
 ---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/buddhirangana">reach out</a> and introduce yourself and don’t just say hi, tell me about yourself</b> 😊 💜</em>
