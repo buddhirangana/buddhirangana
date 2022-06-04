@@ -57,14 +57,14 @@ I serves as the Information System Assistant 💼 at the Nāgānanda Internation
 
 
 <!-- Most Used Languages -->
+  <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buddhirangana&show_icons=true&theme=gotham)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=buddhirangana&show_icons=true&theme=gotham)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=buddhirangana&theme=gotham) 
+-->
   
 | <a href="https://github.com/buddhirangana?tab=stars"><img align="center" src="https://github-readme-stats.vercel.app/api?username=buddhirangana&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Buddhi Rangana's github stats" /></a> | <a href="https://github.com/buddhirangana?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhirangana&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
----
 
 
 ---
