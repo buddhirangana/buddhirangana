@@ -64,7 +64,7 @@ I serves as the Information System Assistant 💼 at the Nāgānanda Internation
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=buddhirangana&theme=gotham) 
 -->
   
-| <a href="https://github.com/buddhirangana?tab=stars"><img align="center" src="https://github-readme-stats.vercel.app/api?username=buddhirangana&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Buddhi Rangana's github stats" /></a> | <a href="https://github.com/buddhirangana?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhirangana&layout=compact&theme=algolia&hide_border=true" /></a> |
+| <a href="https://github.com/buddhirangana?tab=stars"><img align="center" src="https://github-readme-stats.vercel.app/api?username=buddhirangana&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia" alt="Buddhi Rangana's github stats" /></a> | <a href="https://github.com/buddhirangana?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhirangana&layout=compact&theme=algolia&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
