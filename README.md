@@ -65,6 +65,7 @@ I serves as the Information System Assistant 💼 at the Nāgānanda Internation
 -->
   
 | <a href="https://github.com/buddhirangana?tab=stars"><img align="center" src="https://github-readme-stats.vercel.app/api?username=buddhirangana&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Buddhi Rangana's github stats" /></a> | <a href="https://github.com/buddhirangana?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhirangana&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 ---
