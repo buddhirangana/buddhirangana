@@ -27,11 +27,11 @@ I serves as the Information System Assistant 💼 at the Nāgānanda Internation
 
 ### Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sheryl Sandberg විසින් Meta සමාගමේ COO තනතුර හැරයයි](https://tecroom.lk/sheryl-sandberg-stepping-down-meta-facebook-coo/)
+- [DuckDuckGo විසින් Microsoft වෙත පරිශීලකයන් track කිරීමට ඉඩ ලබාදේ](https://tecroom.lk/duckduckgo-has-a-tracker-blocking-carve-out-linked-to-microsoft-contract/)
+- [iPhone 14 Pro දුරකථනයත් සමග එන Always-on display පහසුකම](https://tecroom.lk/ios-16-to-include-always-on-display-feature-ahead-of-iphone-14-pro/)
 - [නව බදු ප්‍රතිසංස්කරණයට අනුව විදුලි සංදේශ බදු ඉහළට](https://tecroom.lk/telecommunication-taxes-to-be-increased-according-to-the-new-tax-reform/)
 - [WhatsApp Premium නමින් Subscription Plan එකක් හඳුන්වාදීමට සුදානම් වේ](https://tecroom.lk/whatsapp-premium-is-the-new-subscription-plan-for-businesses/)
-- [Apple සමාගම තවදුරටත් ලොව වටිනාම සමාගම නොවේ](https://tecroom.lk/apple-is-no-longer-the-worlds-most-valuable-company/)
-- [Meta සමාගම විසින් Facebook සහ Instagram සඳහා 3D Avatars හඳුන්වා දෙයි](https://tecroom.lk/meta-introduces-3d-avatars-on-facebook-and-instagram/)
-- [WhatsApp Status සඳහා Link Previews පහසුකම එකතු කිරීමට සුදානම් වේ](https://tecroom.lk/whatsapp-is-working-on-rich-link-previews-for-text-status-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Latest YouTube Videos
