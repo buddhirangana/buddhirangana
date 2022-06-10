@@ -27,11 +27,11 @@ I serves as the Information System Assistant 💼 at the Nāgānanda Internation
 
 ### Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [අලුතින් නිකුත් වුණු iOS 16 ඇති නව විශේෂාංග](https://tecroom.lk/hands-on-ios-16/)
 - [Google සමාගම විසින් Google Meet සහ Duo සේවාවන් ඒකාබද්ධ කරයි](https://tecroom.lk/google-wants-a-single-video-messaging-app-will-merge-google-meet-and-duo/)
 - [SLT, BOI සහ Port City ජනාධිපතිගේ පාලනයට](https://tecroom.lk/president-takes-slt-boi-and-port-city-under-him/)
 - [Sheryl Sandberg විසින් Meta සමාගමේ COO තනතුර හැරයයි](https://tecroom.lk/sheryl-sandberg-stepping-down-meta-facebook-coo/)
 - [DuckDuckGo විසින් Microsoft වෙත පරිශීලකයන් track කිරීමට ඉඩ ලබාදේ](https://tecroom.lk/duckduckgo-has-a-tracker-blocking-carve-out-linked-to-microsoft-contract/)
-- [iPhone 14 Pro දුරකථනයත් සමග එන Always-on display පහසුකම](https://tecroom.lk/ios-16-to-include-always-on-display-feature-ahead-of-iphone-14-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Latest YouTube Videos
