@@ -25,11 +25,11 @@ I serves as the Information System Assistant at the Nāgānanda International In
 
 ### Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Adobe Photoshop හි Web Version එක සියල්ලන්ටම නොමිලේ](https://tecroom.lk/adobe-photoshop-web-version-free/)
 - [Snapchat හි Bitmoji සහ Apple හි Memoji සමඟ තරඟ කිරීමට TikTok Custom Avatars දියත් කරයි](https://tecroom.lk/tiktok-launches-custom-avatars-to-rival-snapchats-bitmoji-and-apples-memoji/)
 - [අතුරුදහන් වූ ළමුන් පිළිබඳ දැනුවත් කිරීම සඳහා Instagram නව AMBER Alerts පහසුකමක් එක් කරයි](https://tecroom.lk/instagram-adds-new-amber-alerts-to-help-raise-awareness-of-missing-kids/)
 - [ඉන්ධන ඇති තැන් හා ඉන්ධන වර්ග තිබේදැයි පරික්ෂා කරගන්න පහසුම ක්‍රමය මෙන්න](https://tecroom.lk/ceypetco-fuel-management-system/)
 - [SLT, BOI සහ Port City ජනාධිපතිගේ පාලනයෙන් ඉවතට](https://tecroom.lk/slt-boi-and-port-city-out-of-president-control/)
-- [අලුතින් නිකුත් වුණු iOS 16 ඇති නව විශේෂාංග](https://tecroom.lk/hands-on-ios-16/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Latest YouTube Videos
