@@ -1,9 +1,14 @@
 <h1>Hi 👋, I'm Buddhi Rangana</h1>
 
 <!-- About me -->
-<p>
-I serves as the Information System Assistant at the Nāgānanda International Institute for Buddhist Studies (NIIBS). I interest in Information Technology led I to successfully complete a Diploma in Information Technology from the Nāgānanda International Institute for Buddhist Studies. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems. ✨👨🏻‍💻
-</p>
+- 🔭 I’m currently working on Nāgānanda International Institute for Buddhist Studies (NIIBS) 
+- 🌱 I’m currently learning Flutter Mobile App Development
+- 👯 I’m looking to collaborate on community projects
+- 🤔 I’m looking for help with my community projects
+- 💬 Ask me about nothing
+- 📫 How to reach me: https://twitter.com/buddhirangana
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to explore new technologies and try to solve real-life problems
 
 <!-- visitor counter -->
 ![Profile views](https://komarev.com/ghpvc/?username=buddhirangana&color=green)
@@ -53,7 +58,7 @@ I serves as the Information System Assistant at the Nāgānanda International In
 <!-- GitHub stats -->
 <b>⚡ My GitHub Statistics</b>
 
-![Buddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=buddhirangana&count_private=true&hide=stars&show_icons=true&theme=algolia)
+![Buddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=buddhirangana&count_private=true&show_icons=true&theme=algolia)
 ![Buddhi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=buddhirangana&layout=compact&langs_count=6&theme=algolia)
   
 ---
