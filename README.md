@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Buddhi Rangana</h1>
+<h1>Hi 👋, I'm Buddhi Rangana</h1> ![Profile views](https://komarev.com/ghpvc/?username=buddhirangana&color=green)
 
 <!-- About me -->
 - 🔭 I’m currently working on Nāgānanda International Institute for Buddhist Studies (NIIBS) 
