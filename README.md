@@ -30,11 +30,11 @@
 
 ### Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [යුක්රේනයට සහය දක්වන රටවලට රුසියානු සයිබර් ප්‍රහාර වැඩි වීම ගැන Microsoft සමාගම අනතුරු අඟවයි](https://tecroom.lk/microsoft-warns-increased-russian-cyberattacks-countries-supporting-ukraine/)
 - [Samsung සමාගම One UI 5.0 සංවර්ධනය ආරම්භ කරයි](https://tecroom.lk/samsung-one-ui-5-0-development-begins-leak/)
 - [මිය ගිය අයගේ කටහඬ අනුකරණය කලහැකි Alexaගේ නව විශේෂාංගය](https://tecroom.lk/amazon-alexa-feature-mimic-voice-dead-relative-ai/)
 - [Screen Recording වලට හොදම විසදුම OBS Studio](https://tecroom.lk/the-best-solution-for-screen-recording-is-obs-studio/)
 - [Telegram හි පරිශීලකයින් මිලියන 700 ඉක්මවීමත් සමඟ ලබාදුන් Telegram Premium පහසුකම](https://tecroom.lk/telegram-premium-support-with-over-700-million-telegram-users/)
-- [LinkedIn Post සඳහා අලුතින් එකතු වන Funny Reaction](https://tecroom.lk/linkedin-just-launched-a-new-funny-reaction-for-posts/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Latest YouTube Videos
