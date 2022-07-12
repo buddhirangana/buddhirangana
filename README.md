@@ -1,4 +1,5 @@
 <h1>Hi 👋, I'm Buddhi Rangana</h1> 
+![Profile views](https://gpvc.arturio.dev/Movindu-tb)  <a href="https://t.me/movindubandara"> ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue) </a><a href="http://slcoder.cf">![contact](https://img.shields.io/badge/Visit%20Web-slcoder.cf-red) </a>
 
 <!-- About me -->
 - 🔭 I’m currently working on Nāgānanda International Institute for Buddhist Studies (NIIBS) 
