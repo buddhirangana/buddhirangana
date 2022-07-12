@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Buddhi Rangana</h1> 
 
-![Profile views](https://komarev.com/ghpvc/?username=buddhirangana&color=green)  <a href="https://t.me/buddhirangana"> ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue) </a>
+![Profile Views](https://komarev.com/ghpvc/?username=buddhirangana&color=green)  <a href="https://t.me/buddhirangana"> ![contact](https://img.shields.io/badge/Contact%20Me-On%20Telegram-blue) </a>
 <a href="https://tecroom.lk">![contact](https://img.shields.io/badge/Visit%20Web-tecroom.lk-yellow) </a>
 
 - 🔭 I’m currently working on Nāgānanda International Institute for Buddhist Studies (NIIBS) 
