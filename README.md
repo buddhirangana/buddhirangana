@@ -29,30 +29,30 @@
 <!-- Languages and tools -->
 ## 🧰 Languages and Tools:
 
-<a href="https://www.w3.org/html" target="_blank"><code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code></a>
-<a href="https://www.w3.org/css" target="_blank"><code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><code><img width="4%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code></a>
-<a href="https://www.python.org" target="_blank"><code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code></a>
-<a href="https://www.java.com" target="_blank"><code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code></a>
-<a href="https://nodejs.org" target="_blank"><code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code></a>
-<a href="https://jquery.com" target="_blank"><code><img width="4%" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"></code></a>
-<a href="https://angular.io" target="_blank"><code><img width="4%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code></a>
-<a href="https://getbootstrap.com" target="_blank"><code><img width="4%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code></a>
-<a href="https://www.php.net" target="_blank"><code><img width="4%" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></code></a>
-<a href="https://www.mysql.com" target="_blank"><code><img width="4%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code></a>
+<a href="https://www.w3.org/html" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code></a>
+<a href="https://www.w3.org/css" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code></a>
+<a href="https://www.python.org" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code></a>
+<a href="https://www.java.com" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code></a>
+<a href="https://nodejs.org" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code></a>
+<a href="https://jquery.com" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"></code></a>
+<a href="https://angular.io" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code></a>
+<a href="https://getbootstrap.com" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code></a>
+<a href="https://www.php.net" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></code></a>
+<a href="https://www.mysql.com" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code></a>
     
-<a href="https://wordpress.org" target="_blank"><code><img width="4%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"></code></a>
-<a href="https://www.blogger.com" target="_blank"><code><img width="4%" src="https://www.vectorlogo.zone/logos/blogger/blogger-icon.svg"></code></a>
-<a href="https://www.netlify.com" target="_blank"><code><img width="4%" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"></code></a>
-<a href="https://www.npmjs.com" target="_blank"><code><img width="4%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"></code></a>
-<a href="https://flarum.org" target="_blank"><code><img width="4%" src="https://www.vectorlogo.zone/logos/flarum/flarum-icon.svg"></code></a>
-<a href="https://bitnami.com" target="_blank"><code><img width="4%" src="https://www.vectorlogo.zone/logos/bitnami/bitnami-icon.svg"></code></a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><code><img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code></a>
-<a href="https://www.adobe.com/products/premiere.html" target="_blank"><code><img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg"></code></a>
-<a href="https://www.canva.com" target="_blank"><code><img width="4%" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg"></code></a>
-<a href="https://inkscape.org" target="_blank"><code><img width="4%" src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg"></code></a>
-<a href="https://www.jetbrains.com/pycharm" target="_blank"><code><img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"></code></a>
-<a href="https://code.visualstudio.com" target="_blank"><code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code></a>
+<a href="https://wordpress.org" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"></code></a>
+<a href="https://www.blogger.com" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/blogger/blogger-icon.svg"></code></a>
+<a href="https://www.netlify.com" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"></code></a>
+<a href="https://www.npmjs.com" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"></code></a>
+<a href="https://flarum.org" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/flarum/flarum-icon.svg"></code></a>
+<a href="https://bitnami.com" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/bitnami/bitnami-icon.svg"></code></a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code></a>
+<a href="https://www.adobe.com/products/premiere.html" target="_blank"><code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg"></code></a>
+<a href="https://www.canva.com" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg"></code></a>
+<a href="https://inkscape.org" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg"></code></a>
+<a href="https://www.jetbrains.com/pycharm" target="_blank"><code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"></code></a>
+<a href="https://code.visualstudio.com" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code></a>
 
 ## ✍ Recent Blog posts:
 
