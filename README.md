@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on community projects
 - 🤔 I’m looking for help with my community projects
 - 💬 Ask me about nothing
-- 📫 How to reach me: https://twitter.com/buddhirangana
+- 📫 How to reach me: <a href="https://twitter.com/buddhirangana">Buddhi Rangana</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to explore new technologies and try to solve real-life problems
 
@@ -36,23 +36,6 @@
 - [මිය ගිය අයගේ කටහඬ අනුකරණය කලහැකි Alexaගේ නව විශේෂාංගය](https://tecroom.lk/amazon-alexa-feature-mimic-voice-dead-relative-ai/)
 - [Screen Recording වලට හොදම විසදුම OBS Studio](https://tecroom.lk/the-best-solution-for-screen-recording-is-obs-studio/)
 <!-- BLOG-POST-LIST:END -->
-
-### My Latest YouTube Videos
-<table>
-<tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=kh430XZCDxc"><img width="140px" src="https://i.ytimg.com/vi/kh430XZCDxc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kh430XZCDxc">Best Text To Speech Tool For Your Videos 🔥 | Nuance Text-to-Speech | FREE &amp; No Limits</a><br/>Jun 19, 2022</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=q_O5xkdX1fo"><img width="140px" src="https://i.ytimg.com/vi/q_O5xkdX1fo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=q_O5xkdX1fo">Aiyo Alice අයියෝ ඇලිස් | Aiyo Alice Gameplay | | Ayyo Alice Game Sinhala #TECROOM_YOUTUBE_SHORT</a><br/>May 29, 2022</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=e3brUxOKTl8"><img width="140px" src="https://i.ytimg.com/vi/e3brUxOKTl8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=e3brUxOKTl8">How to Enable Emoji Keyboard in Windows 10 😎 | Shortcut Key to Insert Emojis Anywhere in Windows 10</a><br/>Apr 10, 2022</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=vxx7858qw7I"><img width="140px" src="https://i.ytimg.com/vi/vxx7858qw7I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=vxx7858qw7I">How To Create A Telegram Bot Without Coding in Sinhala | Telegram Welcome Bot | Telegram Bot</a><br/>Feb 27, 2022</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=4hIFhY_ggJk"><img width="140px" src="https://i.ytimg.com/vi/4hIFhY_ggJk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4hIFhY_ggJk">Google Diwali Festival | Diwali Google Fun Tricks | New Google Secrets #TECROOM_YOUTUBE_SHORT</a><br/>Jan 23, 2022</td></tr>
-<!-- YOUTUBE:END -->
-</tbody>
-<table>
 
 ---
 <!-- GitHub stats -->
