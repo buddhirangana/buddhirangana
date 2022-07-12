@@ -17,7 +17,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href="https://twitter.com/buddhirangana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="buddhirangana" width="5%" /></a>
+<a href="https://twitter.com/buddhirangana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="buddhirangana" width="3%" /></a>
 <a href="https://linkedin.com/in/buddhirangana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="buddhirangana" height="30" width="30" /></a>
 <a href="https://fb.com/buddhi.rangana.official" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="buddhirangana" height="30" width="30" /></a>
 <a href="https://instagram.com/buddhirangana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="buddhirangana" height="30" width="30" /></a>
