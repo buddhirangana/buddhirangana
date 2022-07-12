@@ -17,13 +17,13 @@
 ## 😎 Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/buddhirangana" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"></code></a>
-<a href="https://linkedin.com/in/buddhirangana" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="4%"></code></a>
-<a href="https://fb.com/buddhi.rangana.official" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" width="4%"></code></a>
-<a href="https://instagram.com/buddhirangana" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="4%"></code></a>
-<a href="https://github.com/buddhirangana" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="4%"></code></a>
-<a href="https://t.me/buddhirangana" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="4%"></code></a>
-<a href="https://youtube.com/c/tecroom" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="4%"></code></a>
+<a href="https://twitter.com/buddhirangana" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="5%"></code></a>
+<a href="https://linkedin.com/in/buddhirangana" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="5%"></code></a>
+<a href="https://fb.com/buddhi.rangana.official" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" width="5%"></code></a>
+<a href="https://instagram.com/buddhirangana" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="5%"></code></a>
+<a href="https://github.com/buddhirangana" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="5%"></code></a>
+<a href="https://t.me/buddhirangana" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="5%"></code></a>
+<a href="https://youtube.com/c/tecroom" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="5%"></code></a>
 </p>
 
 <!-- Languages and tools -->
