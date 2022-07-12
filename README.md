@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Buddhi Rangana</h1> 
 
 ![Profile views](https://komarev.com/ghpvc/?username=buddhirangana&color=green)  <a href="https://t.me/buddhirangana"> ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue) </a>
-<a href="https://tecroom.lk">![contact](https://img.shields.io/badge/Visit%20Web-slcoder.cf-red) </a>
+<a href="https://tecroom.lk">![contact](https://img.shields.io/badge/Visit%20Web-tecroom.lk-yellow) </a>
 
 <!-- About me -->
 - 🔭 I’m currently working on Nāgānanda International Institute for Buddhist Studies (NIIBS) 
@@ -12,11 +12,6 @@
 - 📫 How to reach me: <a href="https://twitter.com/buddhirangana">Buddhi Rangana</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to explore new technologies and try to solve real-life problems
-
-<!-- visitor counter -->
-<!--
-![Profile views](https://komarev.com/ghpvc/?username=buddhirangana&color=green)
--->
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
@@ -44,7 +39,7 @@
 
 ---
 <!-- GitHub stats -->
-<b>⚡ My GitHub Statistics</b>
+## ⚡ My GitHub Statistics
 
 ![Buddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=buddhirangana&count_private=true&show_icons=true&theme=algolia)
 ![Buddhi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=buddhirangana&layout=compact&langs_count=6&theme=algolia)
