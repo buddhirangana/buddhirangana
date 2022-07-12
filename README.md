@@ -49,6 +49,7 @@
 <a href="https://www.jetbrains.com/pycharm" target="_blank"><code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"></code></a>
 <a href="https://code.visualstudio.com" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code></a>
 
+<!--
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -58,6 +59,7 @@
 - [මිය ගිය අයගේ කටහඬ අනුකරණය කලහැකි Alexaගේ නව විශේෂාංගය](https://tecroom.lk/amazon-alexa-feature-mimic-voice-dead-relative-ai/)
 - [Screen Recording වලට හොදම විසදුම OBS Studio](https://tecroom.lk/the-best-solution-for-screen-recording-is-obs-studio/)
 <!-- BLOG-POST-LIST:END -->
+-->
 
 ## 📊 GitHub Statistics
 
@@ -67,6 +69,3 @@
 ## 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=buddhirangana">
-
----
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/buddhirangana">reach out</a> and introduce yourself and don’t just say hi, tell me about yourself</b> 😊 💜</em>
