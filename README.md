@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I love to explore new technologies and try to solve real-life problems
 
 <!-- Connect with me -->
-## 😎 Connect with me:
+## 👨‍👧‍👧 Connect with me:
 
 <p align="left">
 <a href="https://twitter.com/buddhirangana" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="5%"></code></a>
