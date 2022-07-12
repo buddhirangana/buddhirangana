@@ -15,29 +15,29 @@
 
 <!-- Connect with me -->
 ## 😎 Connect with me:
-<p align="left">
 
-<a href="https://twitter.com/buddhirangana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="buddhirangana" width="4%" /></a>
-<a href="https://linkedin.com/in/buddhirangana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="buddhirangana" width="4%" /></a>
-<a href="https://fb.com/buddhi.rangana.official" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="buddhirangana" width="4%" /></a>
-<a href="https://instagram.com/buddhirangana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="buddhirangana" width="4%" /></a>
-<a href="https://github.com/buddhirangana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="buddhirangana" width="4%" /></a>
-<a href="https://t.me/buddhirangana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="buddhirangana" width="4%" /></a>
-<a href="https://youtube.com/c/tecroom" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="tecroom" width="4%" /></a>
+<p align="left">
+<a href="https://twitter.com/buddhirangana" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="buddhirangana" width="4%" /></a>
+<a href="https://linkedin.com/in/buddhirangana" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="buddhirangana" width="4%" /></a>
+<a href="https://fb.com/buddhi.rangana.official" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="buddhirangana" width="4%" /></a>
+<a href="https://instagram.com/buddhirangana" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="buddhirangana" width="4%" /></a>
+<a href="https://github.com/buddhirangana" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="buddhirangana" width="4%" /></a>
+<a href="https://t.me/buddhirangana" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="buddhirangana" width="4%" /></a>
+<a href="https://youtube.com/c/tecroom" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="tecroom" width="4%" /></a>
 </p>
 
 <!-- Languages and tools -->
 ## 🧰 Languages and Tools:
 
-<code><img width="5%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-<code><img width="5%"  src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
-<code><img width="5%"  src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
-<code><img width="5%"  src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-<code><img width="5%"  src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
-<code><img width="5%"  src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
-<code><img width="5%"  src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
-<code><img width="5%"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<code><img width="5%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></code>
+<a href="https://www.w3.org/html" target="_blank"><code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code></a>
+<a href="https://www.w3.org/css" target="_blank"><code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><code><img width="4%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code></a>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></code>
     
    <code><img width="5%"  src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
     <code><img width="5%"  src="https://www.vectorlogo.zone/logos/google/google-icon.svg"></code>
