@@ -17,11 +17,12 @@
 ## Connect with me:
 <p align="left">
 
-<a href="https://twitter.com/buddhirangana" target="blank"><img align="center" src="https://github.com/buddhirangana/buddhirangana/blob/main/assets/twitter.svg" alt="buddhirangana" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/buddhirangana" target="blank"><img align="center" src="https://github.com/buddhirangana/buddhirangana/blob/main/assets/linkedin.svg" alt="buddhirangana" height="30" width="30" /></a>
-<a href="https://fb.com/buddhi.rangana.official" target="blank"><img align="center" src="https://github.com/buddhirangana/buddhirangana/blob/main/assets/facebook.svg" alt="buddhirangana" height="30" width="30" /></a>
-<a href="https://instagram.com/buddhirangana" target="blank"><img align="center" src="https://github.com/buddhirangana/buddhirangana/blob/main/assets/instagram.svg" alt="buddhirangana" height="30" width="30" /></a>
-<a href="https://youtube.com/c/tecroom" target="blank"><img align="center" src="https://github.com/buddhirangana/buddhirangana/blob/main/assets/youtube.svg" alt="tecroom" height="30" width="30" /></a>
+<a href="https://twitter.com/buddhirangana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="buddhirangana" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/buddhirangana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="buddhirangana" height="30" width="30" /></a>
+<a href="https://fb.com/buddhi.rangana.official" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="buddhirangana" height="30" width="30" /></a>
+<a href="https://instagram.com/buddhirangana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="buddhirangana" height="30" width="30" /></a>
+<a href="https://github.com/buddhirangana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="buddhirangana" height="30" width="30" /></a>
+<a href="https://youtube.com/c/tecroom" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="tecroom" height="30" width="30" /></a>
 </p>
 
 <!-- Languages and tools -->
