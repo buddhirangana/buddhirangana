@@ -22,6 +22,7 @@
 <a href="https://fb.com/buddhi.rangana.official" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="buddhirangana" width="4%" /></a>
 <a href="https://instagram.com/buddhirangana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="buddhirangana" width="4%" /></a>
 <a href="https://github.com/buddhirangana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="buddhirangana" width="4%" /></a>
+<a href="https://t.me/buddhirangana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="buddhirangana" width="4%" /></a>
 <a href="https://youtube.com/c/tecroom" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="tecroom" width="4%" /></a>
 </p>
 
