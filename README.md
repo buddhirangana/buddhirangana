@@ -3,7 +3,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=buddhirangana&color=green)  <a href="https://t.me/buddhirangana"> ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue) </a>
 <a href="https://tecroom.lk">![contact](https://img.shields.io/badge/Visit%20Web-tecroom.lk-yellow) </a>
 
-<!-- About me -->
 - 🔭 I’m currently working on Nāgānanda International Institute for Buddhist Studies (NIIBS) 
 - 🌱 I’m currently learning Flutter Mobile App Development
 - 👯 I’m looking to collaborate on community projects
@@ -13,10 +12,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to explore new technologies and try to solve real-life problems
 
-<!-- Connect with me -->
-## 👨‍👧‍👧 Connect with me:
-
-<p align="left">
+## 👥 Connect With Me
 <a href="https://twitter.com/buddhirangana" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="5%"></code></a>
 <a href="https://linkedin.com/in/buddhirangana" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="5%"></code></a>
 <a href="https://fb.com/buddhi.rangana.official" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" width="5%"></code></a>
@@ -24,11 +20,8 @@
 <a href="https://github.com/buddhirangana" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="5%"></code></a>
 <a href="https://t.me/buddhirangana" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="5%"></code></a>
 <a href="https://youtube.com/c/tecroom" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" width="5%"></code></a>
-</p>
 
-<!-- Languages and tools -->
-## 🧰 Languages and Tools:
-
+## 🧰 Languages & Tools
 <a href="https://www.w3.org/html" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code></a>
 <a href="https://www.w3.org/css" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code></a>
@@ -54,7 +47,7 @@
 <a href="https://www.jetbrains.com/pycharm" target="_blank"><code><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"></code></a>
 <a href="https://code.visualstudio.com" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code></a>
 
-## ✍ Recent Blog posts:
+## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Computer එක ඇතුලේ Computer හදන්න දෙන VirtualBox Software එක](https://tecroom.lk/what-is-virtualbox-virtualization-software/)
@@ -64,11 +57,11 @@
 - [Screen Recording වලට හොදම විසදුම OBS Studio](https://tecroom.lk/the-best-solution-for-screen-recording-is-obs-studio/)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- GitHub stats -->
-## ⚡ My GitHub Statistics:
-
+## 📊 GitHub Statistics
 ![Buddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=buddhirangana&count_private=true&show_icons=true&theme=algolia)
 ![Buddhi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=buddhirangana&layout=compact&langs_count=6&theme=algolia)
-  
+
+## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=buddhirangana">
 ---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/buddhirangana">reach out</a> and introduce yourself and don’t just say hi, tell me about yourself</b> 😊 💜</em>
