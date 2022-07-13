@@ -52,11 +52,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram විසින් පරිගණකය හරහා Live Stream කිරීමට හැකියාව ලබාදෙයි](https://tecroom.lk/instagram-live-producer-tool-that-go-live-desktop-using-streaming-software/)
 - [Computer එක ඇතුලේ Computer හදන්න දෙන VirtualBox Software එක](https://tecroom.lk/what-is-virtualbox-virtualization-software/)
 - [යුක්රේනයට සහය දක්වන රටවලට රුසියානු සයිබර් ප්‍රහාර වැඩි වීම ගැන Microsoft සමාගම අනතුරු අඟවයි](https://tecroom.lk/microsoft-warns-increased-russian-cyberattacks-countries-supporting-ukraine/)
 - [Samsung සමාගම One UI 5.0 සංවර්ධනය ආරම්භ කරයි](https://tecroom.lk/samsung-one-ui-5-0-development-begins-leak/)
 - [මිය ගිය අයගේ කටහඬ අනුකරණය කලහැකි Alexaගේ නව විශේෂාංගය](https://tecroom.lk/amazon-alexa-feature-mimic-voice-dead-relative-ai/)
-- [Screen Recording වලට හොදම විසදුම OBS Studio](https://tecroom.lk/the-best-solution-for-screen-recording-is-obs-studio/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
