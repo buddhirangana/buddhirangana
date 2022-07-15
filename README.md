@@ -12,6 +12,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to explore new technologies and try to solve real-life problems
 
+![](https://raw.githubusercontent.com/buddhirangana/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/buddhirangana/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 ## 👥 Connect With Me
 
 <a href="https://twitter.com/buddhirangana" target="_blank"><code><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="5%"></code></a>
