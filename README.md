@@ -39,6 +39,7 @@
 <a href="https://wordpress.org" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"></code></a>
 <a href="https://www.blogger.com" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/blogger/blogger-icon.svg"></code></a>
 <a href="https://www.netlify.com" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"></code></a>
+<a href="https://www.heroku.com" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code></a>
 <a href="https://www.npmjs.com" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"></code></a>
 <a href="https://flarum.org" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/flarum/flarum-icon.svg"></code></a>
 <a href="https://bitnami.com" target="_blank"><code><img width="5%" src="https://www.vectorlogo.zone/logos/bitnami/bitnami-icon.svg"></code></a>
