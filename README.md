@@ -53,11 +53,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DALL-E AI Image Generator එක දැන් Beta Version එකක් ලෙස](https://tecroom.lk/ai-image-generator-dall-e-is-now-available-in-beta/)
 - [Google සමාගමෙහි Chrome Logo එකෙහි සැලසුමෙහි වෙනසක්](https://tecroom.lk/google-new-chrome-logo-designs/)
 - [Instagram Creators සඳහා වැඩි මුදලක් ඉපැයීය හැකි නව Subscription විශේෂාංගය](https://tecroom.lk/instagram-subscription-new-features/)
 - [Instagram විසින් පරිගණකය හරහා Live Stream කිරීමට හැකියාව ලබාදෙයි](https://tecroom.lk/instagram-live-producer-tool-that-go-live-desktop-using-streaming-software/)
 - [Computer එක ඇතුලේ Computer හදන්න දෙන VirtualBox Software එක](https://tecroom.lk/what-is-virtualbox-virtualization-software/)
-- [යුක්රේනයට සහය දක්වන රටවලට රුසියානු සයිබර් ප්‍රහාර වැඩි වීම ගැන Microsoft සමාගම අනතුරු අඟවයි](https://tecroom.lk/microsoft-warns-increased-russian-cyberattacks-countries-supporting-ukraine/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
