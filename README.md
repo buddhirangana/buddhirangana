@@ -53,11 +53,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ideal Motors සමාගම ශ්‍රී ලංකාවේ නිෂ්පාදිත ප්‍රථම ඉලෙක්ට්‍රික් මෝටර් රථය එළිදක්වයි](https://tecroom.lk/ideal-motors-unveils-sri-lankas-first-home-grown-electric-car/)
 - [Google AR Glasses අගෝස්තු මාසයේදී නිකුත් කෙරේ](https://tecroom.lk/google-glass-ar-spectacles-real-time-translation-outdoor-testing-august/)
 - [DALL-E AI Image Generator එක දැන් Beta Version එකක් ලෙස](https://tecroom.lk/ai-image-generator-dall-e-is-now-available-in-beta/)
 - [Google සමාගමෙහි Chrome Logo එකෙහි සැලසුමෙහි වෙනසක්](https://tecroom.lk/google-new-chrome-logo-designs/)
 - [Instagram Creators සඳහා වැඩි මුදලක් ඉපැයීය හැකි නව Subscription විශේෂාංගය](https://tecroom.lk/instagram-subscription-new-features/)
-- [Instagram විසින් පරිගණකය හරහා Live Stream කිරීමට හැකියාව ලබාදෙයි](https://tecroom.lk/instagram-live-producer-tool-that-go-live-desktop-using-streaming-software/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
