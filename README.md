@@ -53,11 +53,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ඔයාගේ දත්තත් leak වෙලාද කියලා හරියටම දැනගන්න ක්‍රමයක්](https://tecroom.lk/a-way-to-know-exactly-if-your-data-has-been-leaked/)
 - [Password කළමනාකරණය කරගන්න නොමිලේම දෙන Bitwarden Password Manager](https://tecroom.lk/bitwarden-the-best-free-password-manager/)
 - [Google විසින් Search Results වලින් සෘජුවම Cloud Games Launch කිරීමේ පහසුකම ලබාදෙයි](https://tecroom.lk/google-search-launch-cloud-games-one-click/)
 - [ඕනම Video එකක Quality අඩු නොවී Size එක අඩු කරන HandBrake Software එක](https://tecroom.lk/how-to-use-handbrake-for-transcoding-video/)
 - [Ideal Motors සමාගම ශ්‍රී ලංකාවේ නිෂ්පාදිත ප්‍රථම ඉලෙක්ට්‍රික් මෝටර් රථය එළිදක්වයි](https://tecroom.lk/ideal-motors-unveils-sri-lankas-first-home-grown-electric-car/)
-- [Google AR Glasses අගෝස්තු මාසයේදී නිකුත් කෙරේ](https://tecroom.lk/google-glass-ar-spectacles-real-time-translation-outdoor-testing-august/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
