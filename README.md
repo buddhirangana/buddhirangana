@@ -53,11 +53,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp යෙදුම තුළ In-app Grocery Shopping පහසුකම ලබාදෙයි](https://tecroom.lk/whatsapp-jiomart-india-super-app-grocery-shopping/)
 - [ලොව ජනප්‍රියම Password Manager සේවාවක් වන LastPass හැක් වෙයි](https://tecroom.lk/lastpass-developer-systems-hacked-to-steal-source-code/)
 - [ඔයාගේ දත්තත් leak වෙලාද කියලා හරියටම දැනගන්න ක්‍රමයක්](https://tecroom.lk/a-way-to-know-exactly-if-your-data-has-been-leaked/)
 - [Password කළමනාකරණය කරගන්න නොමිලේම දෙන Bitwarden Password Manager](https://tecroom.lk/bitwarden-the-best-free-password-manager/)
 - [Google විසින් Search Results වලින් සෘජුවම Cloud Games Launch කිරීමේ පහසුකම ලබාදෙයි](https://tecroom.lk/google-search-launch-cloud-games-one-click/)
-- [ඕනම Video එකක Quality අඩු නොවී Size එක අඩු කරන HandBrake Software එක](https://tecroom.lk/how-to-use-handbrake-for-transcoding-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
