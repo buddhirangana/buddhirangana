@@ -53,11 +53,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [මොනවද මේ QR Code සහ Barcode කියන්නේ?](https://tecroom.lk/what-is-this-qr-code-and-barcode/)
 - [නොමිලේ Plagiarism Check කරන්න හොඳ Tools 10 ක්](https://tecroom.lk/10-best-free-plagiarism-checker-online/)
 - [WhatsApp යෙදුම තුළ In-app Grocery Shopping පහසුකම ලබාදෙයි](https://tecroom.lk/whatsapp-jiomart-india-super-app-grocery-shopping/)
 - [ලොව ජනප්‍රියම Password Manager සේවාවක් වන LastPass හැක් වෙයි](https://tecroom.lk/lastpass-developer-systems-hacked-to-steal-source-code/)
 - [ඔයාගේ දත්තත් leak වෙලාද කියලා හරියටම දැනගන්න ක්‍රමයක්](https://tecroom.lk/a-way-to-know-exactly-if-your-data-has-been-leaked/)
-- [Password කළමනාකරණය කරගන්න නොමිලේම දෙන Bitwarden Password Manager](https://tecroom.lk/bitwarden-the-best-free-password-manager/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
