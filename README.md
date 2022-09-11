@@ -53,11 +53,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shortcut Button එකක් ලෙස භාවිතා කළ හැකි Apple දුරකතනයේ පිටුපස ඇති Apple Logo එක](https://tecroom.lk/apple-logo-on-the-back-of-an-iphone-is-actually-a-hidden-shortcut-button/)
 - [හානිකර පරිගණක වැඩසටහන් සහ ඒවායින් ආරක්ෂා වීම පිළිබඳ නවතම තොරතුරු ගෙනෙන Microsoft Cyber Signals](https://tecroom.lk/microsoft-cyber-signals-tracking-and-defending-against-the-new-ransomware-landscape/)
 - [මොනවද මේ QR Code සහ Barcode කියන්නේ?](https://tecroom.lk/what-is-this-qr-code-and-barcode/)
 - [නොමිලේ Plagiarism Check කරන්න හොඳ Tools 10 ක්](https://tecroom.lk/10-best-free-plagiarism-checker-online/)
 - [WhatsApp යෙදුම තුළ In-app Grocery Shopping පහසුකම ලබාදෙයි](https://tecroom.lk/whatsapp-jiomart-india-super-app-grocery-shopping/)
-- [ලොව ජනප්‍රියම Password Manager සේවාවක් වන LastPass හැක් වෙයි](https://tecroom.lk/lastpass-developer-systems-hacked-to-steal-source-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
