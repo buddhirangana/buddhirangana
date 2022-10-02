@@ -53,11 +53,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Online Meeting වලට Zoom වලට වඩා හොද Jitsi](https://tecroom.lk/jitsi-is-better-than-zoom-for-online-meetings/)
 - [Google Play Store වෙනුවට භාවිතා කළ හැකි Third-party App Stores](https://tecroom.lk/third-party-app-stores-for-android-devices/)
 - [බිලියන ගණනක් ගීත නොමිලේ ඇසිය හැකි Spotify](https://tecroom.lk/what-is-spotify/)
 - [Android සඳහා Incognito Tab Lock කිරීමේ පහසුකම එක් කරයි](https://tecroom.lk/google-chrome-android-incognito-tabs-lock-fingerprint/)
 - [Snapchat Web දැන් ලොව පුරා සිටින සියලුම පරිශීලකයින්ට භාවිතා කල හැකිය](https://tecroom.lk/snapchat-for-web-is-now-available-to-all-users-worldwide/)
-- [Shortcut Button එකක් ලෙස භාවිතා කළ හැකි Apple දුරකතනයේ පිටුපස ඇති Apple Logo එක](https://tecroom.lk/apple-logo-on-the-back-of-an-iphone-is-actually-a-hidden-shortcut-button/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
