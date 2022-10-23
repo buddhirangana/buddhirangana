@@ -53,11 +53,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Video Editing වලට නොමිලයේ ලබාදෙන DaVinci Resolve Software එක](https://tecroom.lk/davinci-resolve-free-software-for-video-editing/)
 - [Microsoft Windows 11 වෙත iCloud Photos ඒකාබද්ධ කරයි](https://tecroom.lk/microsoft-brings-icloud-photos-integration-to-windows-11/)
 - [Binance හැක් කර ඩොලර් මිලයන 570ක් වටිනා BNB Tokens සොරාගනි](https://tecroom.lk/more-than-100-million-worth-of-binances-bnb-token-stolen-in-another-major-crypto-hack/)
 - [Blogging වලට WordPress වලට වඩා හොඳ Ghost](https://tecroom.lk/ghost-is-better-than-wordpress-for-blogging/)
 - [Online Meeting වලට Zoom වලට වඩා හොද Jitsi](https://tecroom.lk/jitsi-is-better-than-zoom-for-online-meetings/)
-- [Google Play Store වෙනුවට භාවිතා කළ හැකි Third-party App Stores](https://tecroom.lk/third-party-app-stores-for-android-devices/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
