@@ -2,6 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=buddhirangana&color=green)  <a href="https://t.me/buddhirangana"> ![contact](https://img.shields.io/badge/Contact%20Me-On%20Telegram-blue) </a>
 <a href="https://tecroom.lk">![contact](https://img.shields.io/badge/Visit%20Web-tecroom.lk-yellow) </a>
+<a href="https://buddhirangana.github.io">![contact](https://img.shields.io/badge/Visit%20Web-buddhirangana.github.io-green) </a>
 
 - 🔭 I’m currently working on Nāgānanda International Institute for Buddhist Studies (NIIBS) 
 - 🌱 I’m currently learning Flutter Mobile App Development
