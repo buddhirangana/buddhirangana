@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ඩොලර් 8 කට ලැබෙන Twitter Blue Tick එක](https://tecroom.lk/twitter-blue-tick-now-paid/)
 - [ප්‍රසිද්ධ පුද්ගලයින්ගේ විශ්වාසය දිනාගත් ආරක්ෂිත Messaging Platform එකක් වන Signal](https://tecroom.lk/what-is-signal-and-why-it-is-famous/)
 - [Video Editing වලට නොමිලයේ ලබාදෙන DaVinci Resolve Software එක](https://tecroom.lk/davinci-resolve-free-software-for-video-editing/)
 - [Microsoft Windows 11 වෙත iCloud Photos ඒකාබද්ධ කරයි](https://tecroom.lk/microsoft-brings-icloud-photos-integration-to-windows-11/)
 - [Binance හැක් කර ඩොලර් මිලයන 570ක් වටිනා BNB Tokens සොරාගනි](https://tecroom.lk/more-than-100-million-worth-of-binances-bnb-token-stolen-in-another-major-crypto-hack/)
-- [Blogging වලට WordPress වලට වඩා හොඳ Ghost](https://tecroom.lk/ghost-is-better-than-wordpress-for-blogging/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
