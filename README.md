@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft ශ්‍රී ලංකාවේ නව ව්‍යාපාර වෙනුවෙන් Microsoft for Startups Founders Hub දියත් කරයි](https://tecroom.lk/microsoft-launches-founders-hub-in-sri-lanka/)
 - [Google Lens දැන් Google.com හි Image Search කිරීම පහසු කරයි](https://tecroom.lk/google-lens-will-now-make-image-search-easier-on-google/)
 - [Dialog සිය නවතම DTV විකාශන මධ්‍යස්ථානය සහ Satellite Earth Station පුත්තලමේදී එළිදක්වයි](https://tecroom.lk/dialog-commissions-its-latest-dtv-broadcast-centre-and-satellite-earth-station-in-puttalam/)
 - [ඩොලර් 8 කට ලැබෙන Twitter Blue Tick එක](https://tecroom.lk/twitter-blue-tick-now-paid/)
 - [ප්‍රසිද්ධ පුද්ගලයින්ගේ විශ්වාසය දිනාගත් ආරක්ෂිත Messaging Platform එකක් වන Signal](https://tecroom.lk/what-is-signal-and-why-it-is-famous/)
-- [Video Editing වලට නොමිලයේ ලබාදෙන DaVinci Resolve Software එක](https://tecroom.lk/davinci-resolve-free-software-for-video-editing/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
