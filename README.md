@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp හරහා Polls යැවීමේ පහසුකම ලබා දෙයි](https://tecroom.lk/whatsapp-released-polls-feature/)
 - [TikTok සඳහා නව In-app eCommerce Shopping පහසුකමක් එක්කරයි](https://tecroom.lk/tiktok-is-testing-its-in-app-ecommerce-shopping-feature-starting-users-in-us/)
 - [YouTube හි කිරුළ PewDiePie ගෙන් MrBeast අතට](https://tecroom.lk/mrbeast-surpasses-pewdiepie-as-the-youtube-creator-with-the-most-subscribers/)
 - [WhatsApp ගිණුමට තවත් ජංගම දුරකථනයක් Link කල හැකි Link Device පහසුකම](https://tecroom.lk/whatsapp-companion-mode-on-android-beta/)
 - [Ghost CMS ඔබේ Windows පරිගණකයට Install කර Run කරමු](https://tecroom.lk/how-to-install-and-run-ghost-cms-in-windows/)
-- [Microsoft ශ්‍රී ලංකාවේ නව ව්‍යාපාර වෙනුවෙන් Microsoft for Startups Founders Hub දියත් කරයි](https://tecroom.lk/microsoft-launches-founders-hub-in-sri-lanka/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
