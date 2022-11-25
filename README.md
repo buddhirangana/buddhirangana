@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Office සේවාව Microsoft 365 ලෙස Rebrand කරයි](https://tecroom.lk/the-office-app-is-becoming-the-new-microsoft-365-app/)
 - [WhatsApp හරහා Polls යැවීමේ පහසුකම ලබා දෙයි](https://tecroom.lk/whatsapp-released-polls-feature/)
 - [TikTok සඳහා නව In-app eCommerce Shopping පහසුකමක් එක්කරයි](https://tecroom.lk/tiktok-is-testing-its-in-app-ecommerce-shopping-feature-starting-users-in-us/)
 - [YouTube හි කිරුළ PewDiePie ගෙන් MrBeast අතට](https://tecroom.lk/mrbeast-surpasses-pewdiepie-as-the-youtube-creator-with-the-most-subscribers/)
 - [WhatsApp ගිණුමට තවත් ජංගම දුරකථනයක් Link කල හැකි Link Device පහසුකම](https://tecroom.lk/whatsapp-companion-mode-on-android-beta/)
-- [Ghost CMS ඔබේ Windows පරිගණකයට Install කර Run කරමු](https://tecroom.lk/how-to-install-and-run-ghost-cms-in-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
