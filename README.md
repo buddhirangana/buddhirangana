@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google සමාගම නව Android විශේෂාංග හඳුන්වා දෙයි](https://tecroom.lk/google-introduces-new-android-features/)
 - [WhatsApp Desktop Version එක සඳහා Screen Lock විශේෂාංගයක්](https://tecroom.lk/whatsapp-for-desktop-might-soon-get-a-screen-lock-feature/)
 - [මිලියන 500කට අධික WhatsApp පරිශීලකයන්ගේ දත්ත වෙන්දේසියේ](https://tecroom.lk/whatsapp-data-leak/)
 - [Reddit වලින් මොනවද කරන්න පුලුවන්](https://tecroom.lk/what-can-you-do-with-reddit/)
 - [Microsoft Office සේවාව Microsoft 365 ලෙස Rebrand කරයි](https://tecroom.lk/the-office-app-is-becoming-the-new-microsoft-365-app/)
-- [WhatsApp හරහා Polls යැවීමේ පහසුකම ලබා දෙයි](https://tecroom.lk/whatsapp-released-polls-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
