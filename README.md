@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Software Issue එකක් හේතුවෙන් Tesla වාහන 321,000 කට අධික ප්‍රමාණයක් ආපසු කැඳවයි](https://tecroom.lk/tesla-recalls-over-321000-vehicles-due-to-taillight-software-issue/)
 - [ඉදිරි මාස 6 ඇතුළත Neuralink Microchips මිනිස් මොළය හා සම්බන්ධ කල හැකි බ​ව Elon Musk නිවේදනය කරයි](https://tecroom.lk/elon-musk-says-expects-neuralink-begin-human-trials-six-months/)
 - [Google සමාගම නව Android විශේෂාංග හඳුන්වා දෙයි](https://tecroom.lk/google-introduces-new-android-features/)
 - [WhatsApp Desktop Version එක සඳහා Screen Lock විශේෂාංගයක්](https://tecroom.lk/whatsapp-for-desktop-might-soon-get-a-screen-lock-feature/)
 - [මිලියන 500කට අධික WhatsApp පරිශීලකයන්ගේ දත්ත වෙන්දේසියේ](https://tecroom.lk/whatsapp-data-leak/)
-- [Reddit වලින් මොනවද කරන්න පුලුවන්](https://tecroom.lk/what-can-you-do-with-reddit/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
