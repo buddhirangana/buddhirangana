@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk තවදුරටත් ලෝව ධනවත්ම පුද්ගලයා නොවේ](https://tecroom.lk/elon-musk-toppled-from-top-forbes-list/)
 - [SLT-Mobitel mGuide සේවාව Hutch පාරිභෝගිකයින්ට ප්‍රවේශවීමේ හැකියාව පුළුල් කරයි](https://tecroom.lk/slt-mobitel-mguide-service-expands-accessibility-hutch-customers/)
 - [SIM එකක් නොමැතිව Telegram සඳහා ලියාපදිංචි විය හැකි විශේෂාංගයක් හඳුන්වා දෙයි](https://tecroom.lk/you-can-now-sign-up-for-telegram-without-a-sim/)
 - [Microsoft සහ LinkedIn එක්ව රැකියා සඳහා අවශ්‍ය ඩිජිටල් කුසලතා වැඩිදියුණු කරගැනීමට උපකාර කිරීමේ වැඩසටහනක් දියත් කරයි](https://tecroom.lk/microsoft-and-linkedin-launch-skills-for-jobs-program/)
 - [Software Issue එකක් හේතුවෙන් Tesla වාහන 321,000 කට අධික ප්‍රමාණයක් ආපසු කැඳවයි](https://tecroom.lk/tesla-recalls-over-321000-vehicles-due-to-taillight-software-issue/)
-- [ඉදිරි මාස 6 ඇතුළත Neuralink Microchips මිනිස් මොළය හා සම්බන්ධ කල හැකි බ​ව Elon Musk නිවේදනය කරයි](https://tecroom.lk/elon-musk-says-expects-neuralink-begin-human-trials-six-months/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
