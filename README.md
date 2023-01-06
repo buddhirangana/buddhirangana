@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Page Performance මැනගන්න සුපිරි Website 02 ක්](https://tecroom.lk/02-excellent-websites-to-measure-web-page-performance/)
 - [දෙසැම්බර් 31 න් පසු WhatsApp සහය නොදක්වන දුරකථන](https://tecroom.lk/whatsapp-will-stop-working-on-these-phones-after-december-31/)
 - [Microsoft 2023 Imagine Cup තරගාවලියේ Southeast Asia New Markets අදියර ඇරඹේ](https://tecroom.lk/microsoft-launches-2023-imagine-cup-southeast-asia-new-markets-edition-to-empower-student-innovators/)
 - [AI මගින් නිර්මාණය කරන ලද පින්තූර වලට විරුද්ධව නිර්මාණකරුවන් විරෝධතාවය​ක](https://tecroom.lk/artstation-responds-to-the-no-to-ai-generated-images-protest/)
 - [Elon Musk තවදුරටත් ලෝව ධනවත්ම පුද්ගලයා නොවේ](https://tecroom.lk/elon-musk-toppled-from-top-forbes-list/)
-- [SLT-Mobitel mGuide සේවාව Hutch පාරිභෝගිකයින්ට ප්‍රවේශවීමේ හැකියාව පුළුල් කරයි](https://tecroom.lk/slt-mobitel-mguide-service-expands-accessibility-hutch-customers/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
