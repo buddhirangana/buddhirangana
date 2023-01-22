@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp හරහා High Quality Images Share කල හැකි නවතම විශේෂාංගය](https://tecroom.lk/you-will-be-soon-able-to-share-high-quality-images-on-whatsapp/)
 - [Western Digital විසින් Content Creatorලා සඳහා නව SanDisk Storage Solutions හඳුන්වා දෙයි](https://tecroom.lk/western-digital-introduces-new-sandisk-storage-solutions-for-content-creators/)
 - [Hologram තාක්ෂණය සහ එහි භාවිතයන්](https://tecroom.lk/hologram-technology/)
 - [Web Page Performance මැනගන්න සුපිරි Website 02 ක්](https://tecroom.lk/02-excellent-websites-to-measure-web-page-performance/)
 - [දෙසැම්බර් 31 න් පසු WhatsApp සහය නොදක්වන දුරකථන](https://tecroom.lk/whatsapp-will-stop-working-on-these-phones-after-december-31/)
-- [Microsoft 2023 Imagine Cup තරගාවලියේ Southeast Asia New Markets අදියර ඇරඹේ](https://tecroom.lk/microsoft-launches-2023-imagine-cup-southeast-asia-new-markets-edition-to-empower-student-innovators/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
