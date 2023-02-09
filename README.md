@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft සමාගම විසින් AI මගින් ක්‍රියාත්මක වන Bing Search Engine සහ Edge Browser එළිදක්වයි](https://tecroom.lk/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge/)
 - [WhatsApp සඳ​හා Voice Status නමි​න් නව පහසුකමක් හඳුන්​වා දෙයි](https://tecroom.lk/whatsapp-beta-testing-voice-recording-status-update-new-feature/)
 - [Microsoft Teams සහ Outlook සේවා පැය හතරක කාලයක් ඇනහිටී](https://tecroom.lk/microsoft-teams-outlook-down-outage-issues/)
 - [WhatsApp හරහා High Quality Images Share කල හැකි නවතම විශේෂාංගය](https://tecroom.lk/you-will-be-soon-able-to-share-high-quality-images-on-whatsapp/)
 - [Western Digital විසින් Content Creatorලා සඳහා නව SanDisk Storage Solutions හඳුන්වා දෙයි](https://tecroom.lk/western-digital-introduces-new-sandisk-storage-solutions-for-content-creators/)
-- [Hologram තාක්ෂණය සහ එහි භාවිතයන්](https://tecroom.lk/hologram-technology/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
