@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [මොකක්ද මේ Motion Capture තාක්ෂණය කියන්නේ?](https://tecroom.lk/what-is-motion-capture-technology/)
 - [Namecheap සමාගමේ Email ගිණුම Hack කර Scam Email යවලා](https://tecroom.lk/namecheap-hacked-and-used-to-send-scam-e-mails/)
 - [Microsoft සමාගම විසින් AI මගින් ක්‍රියාත්මක වන Bing Search Engine සහ Edge Browser එළිදක්වයි](https://tecroom.lk/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge/)
 - [WhatsApp සඳ​හා Voice Status නමි​න් නව පහසුකමක් හඳුන්​වා දෙයි](https://tecroom.lk/whatsapp-beta-testing-voice-recording-status-update-new-feature/)
 - [Microsoft Teams සහ Outlook සේවා පැය හතරක කාලයක් ඇනහිටී](https://tecroom.lk/microsoft-teams-outlook-down-outage-issues/)
-- [WhatsApp හරහා High Quality Images Share කල හැකි නවතම විශේෂාංගය](https://tecroom.lk/you-will-be-soon-able-to-share-high-quality-images-on-whatsapp/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
