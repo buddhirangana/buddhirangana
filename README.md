@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ශ්‍රී ලංකාවේ ප්‍රථම පූර්ණ විදුලි සුපිරි මෝටර් රථය වන VEGA ලියාපදිංචි වෙයි](https://tecroom.lk/sri-lankas-super-car-vega-gets-registration/)
 - [Imagine Cup Junior 2023 තරගයට එක්වන මෙන් Microsoft සහ අධ්‍යාපන අමාත්‍යාංශය පාසල් සිසුන්ට ආරාධනා කරයි](https://tecroom.lk/microsoft-invite-schoolchildren-to-join-imagine-cup-junior-2023/)
 - [මොකක්ද මේ Motion Capture තාක්ෂණය කියන්නේ?](https://tecroom.lk/what-is-motion-capture-technology/)
 - [Namecheap සමාගමේ Email ගිණුම Hack කර Scam Email යවලා](https://tecroom.lk/namecheap-hacked-and-used-to-send-scam-e-mails/)
 - [Microsoft සමාගම විසින් AI මගින් ක්‍රියාත්මක වන Bing Search Engine සහ Edge Browser එළිදක්වයි](https://tecroom.lk/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge/)
-- [WhatsApp සඳ​හා Voice Status නමි​න් නව පහසුකමක් හඳුන්​වා දෙයි](https://tecroom.lk/whatsapp-beta-testing-voice-recording-status-update-new-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
