@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OiO.lk ශ්‍රී ලාංකීක අපේම Freelancing Platform එක](https://tecroom.lk/oiolk-sri-lankan-freelancing-platform/)
 - [Snapchat OpenAI හි GPT තාක්ෂණයෙන් බලගැන්වෙන AI Chatbot කෙනෙක් දියත් කරයි](https://tecroom.lk/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/)
 - [ශ්‍රී ලංකාවේ Motion Capture තාක්ෂණයෙන් තැනුණු ප්‍රථම ත්‍රිමාණ සජීවීකරණ චිත්‍රපටය “ගජමෑන්”](https://tecroom.lk/gajaman-sri-lankas-first-3d-animation-film-made-with-motion-capture-technology/)
 - [ශ්‍රී ලංකාවේ ප්‍රථම පූර්ණ විදුලි සුපිරි මෝටර් රථය වන VEGA ලියාපදිංචි වෙයි](https://tecroom.lk/sri-lankas-super-car-vega-gets-registration/)
 - [Imagine Cup Junior 2023 තරගයට එක්වන මෙන් Microsoft සහ අධ්‍යාපන අමාත්‍යාංශය පාසල් සිසුන්ට ආරාධනා කරයි](https://tecroom.lk/microsoft-invite-schoolchildren-to-join-imagine-cup-junior-2023/)
-- [මොකක්ද මේ Motion Capture තාක්ෂණය කියන්නේ?](https://tecroom.lk/what-is-motion-capture-technology/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
