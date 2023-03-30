@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5G තාක්ෂණය යනු කුමක්ද සහ එය ක්‍රියාත්මක වෙන්නේ කෙසේද?](https://tecroom.lk/what-is-5g-technology-and-how-does-it-work/)
 - [චීනයේ People’s Daily ප්‍රවෘත්ති නිවේදනයට AI තාක්ෂණය යොදාගනි](https://tecroom.lk/chinese-ai-news-anchor-works-24-hours-a-day-365-days-a-year/)
 - [මොනවද මේ API කියන්නේ?](https://tecroom.lk/what-is-an-api/)
 - [OiO.lk ශ්‍රී ලාංකීක අපේම Freelancing Platform එක](https://tecroom.lk/oiolk-sri-lankan-freelancing-platform/)
 - [Snapchat OpenAI හි GPT තාක්ෂණයෙන් බලගැන්වෙන AI Chatbot කෙනෙක් දියත් කරයි](https://tecroom.lk/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/)
-- [ශ්‍රී ලංකාවේ Motion Capture තාක්ෂණයෙන් තැනුණු ප්‍රථම ත්‍රිමාණ සජීවීකරණ චිත්‍රපටය “ගජමෑන්”](https://tecroom.lk/gajaman-sri-lankas-first-3d-animation-film-made-with-motion-capture-technology/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
