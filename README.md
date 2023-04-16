@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ඔයාගේ Website එකේ Articles වලට Traffic ගන්නේ කොහොමද?](https://tecroom.lk/how-to-get-more-traffic-to-articles-on-your-website/)
 - [චීන තාක්‍ෂණ දැවැන්තයා වන Alibaba ප්‍රතිවාදී AI Chatbot එකක් දියත් කරයි](https://tecroom.lk/alibaba-launches-chatgpt-like-ai-chatbot/)
 - [Elon Musk විසින් සංකේතාත්මක Twitter පක්ෂි ලාංඡනය සුනඛ නිරූපකයක් සමඟ ප්‍රතිස්ථාපනය කරයි](https://tecroom.lk/elon-musk-replaces-the-iconic-twitter-bird-logo-with-a-dog-icon/)
 - [5G තාක්ෂණය යනු කුමක්ද සහ එය ක්‍රියාත්මක වෙන්නේ කෙසේද?](https://tecroom.lk/what-is-5g-technology-and-how-does-it-work/)
 - [චීනයේ People’s Daily ප්‍රවෘත්ති නිවේදනයට AI තාක්ෂණය යොදාගනි](https://tecroom.lk/chinese-ai-news-anchor-works-24-hours-a-day-365-days-a-year/)
-- [මොනවද මේ API කියන්නේ?](https://tecroom.lk/what-is-an-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
