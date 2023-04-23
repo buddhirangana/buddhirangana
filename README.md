@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Backlinks ගැහුවම Website එකට හොඳ නැද්ද? Rank වෙනවද?](https://tecroom.lk/backlinks-are-not-good-for-the-website/)
 - [Instagram Bio එකට Multiple Links එක් කල හැකි නව විශේෂාංගයක්](https://tecroom.lk/instagram-adds-support-for-multiple-links-in-bio/)
 - [ChatGPT හි දෝෂ වාර්තා කලොත් OpenAI ‌වෙතින් ඔබට $20,000 ක මුදල් තෑග්ගක්](https://tecroom.lk/openai-will-pay-you-up-to-20000-for-reporting-bugs-in-chatgpt/)
 - [ඔයාගේ Website එකේ Articles වලට Traffic ගන්නේ කොහොමද?](https://tecroom.lk/how-to-get-more-traffic-to-articles-on-your-website/)
 - [චීන තාක්‍ෂණ දැවැන්තයා වන Alibaba ප්‍රතිවාදී AI Chatbot එකක් දියත් කරයි](https://tecroom.lk/alibaba-launches-chatgpt-like-ai-chatbot/)
-- [Elon Musk විසින් සංකේතාත්මක Twitter පක්ෂි ලාංඡනය සුනඛ නිරූපකයක් සමඟ ප්‍රතිස්ථාපනය කරයි](https://tecroom.lk/elon-musk-replaces-the-iconic-twitter-bird-logo-with-a-dog-icon/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
