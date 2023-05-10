@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [කොහොමද හරියට Keyword Research එකක් කරන්නේ?](https://tecroom.lk/how-to-do-keyword-research/)
 - [සංවාදවලට සවන් දීමට සහ ඔබට කිව යුතු දේ පැවසීමට හැකි AI බලයෙන් ක්‍රියා කරන සුපිරි කණ්නාඩි යුගලය](https://tecroom.lk/ai-powered-glasses-can-listen-to-conversations-and-tell-you-what-to-say/)
 - [එකම WhatsApp ගිණුමට දුරකථන කිහිපයක් සම්බන්ධ කලහැකි Multi-device විශේෂාංගය හඳුන්වාදෙයි](https://tecroom.lk/whatsapp-announced-a-feature-that-allows-users-to-use-the-same-account-on-multiple-phones/)
 - [Backlinks ගැහුවම Website එකට හොඳ නැද්ද? Rank වෙනවද?](https://tecroom.lk/backlinks-are-not-good-for-the-website/)
 - [Instagram Bio එකට Multiple Links එක් කල හැකි නව විශේෂාංගයක්](https://tecroom.lk/instagram-adds-support-for-multiple-links-in-bio/)
-- [ChatGPT හි දෝෂ වාර්තා කලොත් OpenAI ‌වෙතින් ඔබට $20,000 ක මුදල් තෑග්ගක්](https://tecroom.lk/openai-will-pay-you-up-to-20000-for-reporting-bugs-in-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
