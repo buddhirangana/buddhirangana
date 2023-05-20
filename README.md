@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trading ගැන කතා කරන කොට දැනගත යුතුම Crypto Trading Platform එකක් වන Binance](https://tecroom.lk/binance-is-a-must-know-crypto-trading-platform-when-talking-about-trading/)
 - [iOS සහ Android දුරකථන සඳහා WhatsApp හි Chat Lock කිරීමේ විශේෂාංගයක් හඳුන්වා දෙයි](https://tecroom.lk/mark-zuckerberg-announced-chat-lock-feature-on-whatsapp-for-ios-and-android/)
 - [Trading කරන්නේ කොහොමද? Trading වලින් සල්ලි හොයන්නේ කොහොමද?](https://tecroom.lk/how-to-make-money-from-trading/)
 - [කොහොමද හරියට Keyword Research එකක් කරන්නේ?](https://tecroom.lk/how-to-do-keyword-research/)
 - [සංවාදවලට සවන් දීමට සහ ඔබට කිව යුතු දේ පැවසීමට හැකි AI බලයෙන් ක්‍රියා කරන සුපිරි කණ්නාඩි යුගලය](https://tecroom.lk/ai-powered-glasses-can-listen-to-conversations-and-tell-you-what-to-say/)
-- [එකම WhatsApp ගිණුමට දුරකථන කිහිපයක් සම්බන්ධ කලහැකි Multi-device විශේෂාංගය හඳුන්වාදෙයි](https://tecroom.lk/whatsapp-announced-a-feature-that-allows-users-to-use-the-same-account-on-multiple-phones/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
