@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter සඳහා අභියෝග කරමින් Meta සමාගම විසින් හඳුන්වාදුන් Threads](https://tecroom.lk/instagram-to-launch-direct-competitor-to-twitter/)
 - [නවතම iOS 17 සංස්කරණය සහය දක්වන iPhone මාදිලි මෙන්න](https://tecroom.lk/ios-17-iphone-models-list-eligibility-features/)
 - [Apple සමාගම Vision Pro නම් Mixed Reality Headset එකක් එලිදක්වයි](https://tecroom.lk/introducing-apple-vision-pro-apples-first-spatial-computer/)
 - [WhatsApp Calls සඳහා Screen Share කලහැකි නව විශේෂාංගයක් හඳුන්වා දෙයි](https://tecroom.lk/whatsapp-test-screen-sharing-feature/)
 - [කෝටි ගණන් සල්ලි මවන කෝඩින් නොමිලේ ඉගෙනගන්න](https://tecroom.lk/dp-education-unveils-free-online-coding-school/)
-- [Trading ගැන කතා කරන කොට දැනගත යුතුම Crypto Trading Platform එකක් වන Binance](https://tecroom.lk/binance-is-a-must-know-crypto-trading-platform-when-talking-about-trading/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
