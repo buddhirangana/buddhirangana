@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [නොමේරූ ළදරුවන් සඳහා ස්පාඤ්ඤ විද්‍යාඥයින් කෘතිම ගර්භාෂයක් නිර්මාණය කරයි](https://tecroom.lk/spanish-researchers-aim-trick-nature-with-artificial-womb/)
 - [ශ්‍රී ලාංකීය මෘදුකාංගයක් වන ManKiwwa සඳහා ජාත්‍යන්තර සම්මානයක්](https://tecroom.lk/world-recognition-for-sl-software-mankiwwa/)
 - [Twitter සඳහා අභියෝග කරමින් Meta සමාගම විසින් හඳුන්වාදුන් Threads](https://tecroom.lk/instagram-to-launch-direct-competitor-to-twitter/)
 - [නවතම iOS 17 සංස්කරණය සහය දක්වන iPhone මාදිලි මෙන්න](https://tecroom.lk/ios-17-iphone-models-list-eligibility-features/)
 - [Apple සමාගම Vision Pro නම් Mixed Reality Headset එකක් එලිදක්වයි](https://tecroom.lk/introducing-apple-vision-pro-apples-first-spatial-computer/)
-- [WhatsApp Calls සඳහා Screen Share කලහැකි නව විශේෂාංගයක් හඳුන්වා දෙයි](https://tecroom.lk/whatsapp-test-screen-sharing-feature/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
