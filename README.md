@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SEO වලදි Content එක විතරක් King වුනාම ඇතිද?](https://tecroom.lk/why-content-is-king-in-seo/)
 - [Zapmail ශ්‍රී ලංකාවේ ගොඩනගා ඇති ලොව පළමු Collaborative Email Service එක දියත් කරයි](https://tecroom.lk/zapmail-launches-worlds-1st-collaborative-email-service-built-in-sri-lanka/)
 - [SEO කරන්න කම්මැලි අයට SEO වලින් ගොඩයන්න පුළුවන් රහසක්](https://tecroom.lk/what-is-an-emd-in-seo/)
 - [නොමේරූ ළදරුවන් සඳහා ස්පාඤ්ඤ විද්‍යාඥයින් කෘතිම ගර්භාෂයක් නිර්මාණය කරයි](https://tecroom.lk/spanish-researchers-aim-trick-nature-with-artificial-womb/)
 - [ශ්‍රී ලාංකීය මෘදුකාංගයක් වන ManKiwwa සඳහා ජාත්‍යන්තර සම්මානයක්](https://tecroom.lk/world-recognition-for-sl-software-mankiwwa/)
-- [Twitter සඳහා අභියෝග කරමින් Meta සමාගම විසින් හඳුන්වාදුන් Threads](https://tecroom.lk/instagram-to-launch-direct-competitor-to-twitter/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
