@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dialog Axiata ශ්‍රී ලංකාවේ පළමු වරට Voice Over 5G &lpar;VoNR&rpar; සේවාව සාර්ථකව අත්හදා බලයි](https://tecroom.lk/dialog-axiata-successfully-trials-voice-over-5g-service/)
 - [Video Generation වැඩවලට හොඳම AI Video Generators 10ය &lpar;Text-to-Video AI Tools&rpar;](https://tecroom.lk/best-ai-video-generators/)
 - [SEO වලදි Content එක විතරක් King වුනාම ඇතිද?](https://tecroom.lk/why-content-is-king-in-seo/)
 - [Zapmail ශ්‍රී ලංකාවේ ගොඩනගා ඇති ලොව පළමු Collaborative Email Service එක දියත් කරයි](https://tecroom.lk/zapmail-launches-worlds-1st-collaborative-email-service-built-in-sri-lanka/)
 - [SEO කරන්න කම්මැලි අයට SEO වලින් ගොඩයන්න පුළුවන් රහසක්](https://tecroom.lk/what-is-an-emd-in-seo/)
-- [නොමේරූ ළදරුවන් සඳහා ස්පාඤ්ඤ විද්‍යාඥයින් කෘතිම ගර්භාෂයක් නිර්මාණය කරයි](https://tecroom.lk/spanish-researchers-aim-trick-nature-with-artificial-womb/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
