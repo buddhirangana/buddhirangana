@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Channel වලට අලුත් Adminලා එකතු කල හැකි නවතම WhatsApp Beta Update එක](https://tecroom.lk/whatsapp-beta-update-add-channel-admins/)
 - [වසර 14 කට පසුව Omegle සේවාව නවතා දැමේ](https://tecroom.lk/omegle-anonymous-video-chat-shut-down-online-safety/)
 - [Dialog Axiata ශ්‍රී ලංකාවේ පළමු වරට Voice Over 5G &lpar;VoNR&rpar; සේවාව සාර්ථකව අත්හදා බලයි](https://tecroom.lk/dialog-axiata-successfully-trials-voice-over-5g-service/)
 - [Video Generation වැඩවලට හොඳම AI Video Generators 10ය &lpar;Text-to-Video AI Tools&rpar;](https://tecroom.lk/best-ai-video-generators/)
 - [SEO වලදි Content එක විතරක් King වුනාම ඇතිද?](https://tecroom.lk/why-content-is-king-in-seo/)
-- [Zapmail ශ්‍රී ලංකාවේ ගොඩනගා ඇති ලොව පළමු Collaborative Email Service එක දියත් කරයි](https://tecroom.lk/zapmail-launches-worlds-1st-collaborative-email-service-built-in-sri-lanka/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
