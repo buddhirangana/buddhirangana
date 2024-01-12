@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ලේසියෙන් පහසුවෙන් වැඩ කරගන්න AI Tools ගොන්නක්](https://tecroom.lk/best-ai-productivity-tools/)
 - [Apple iPhone වල boot loop ගැටළු හේතුවෙන් iOS 17.3 Beta 2 යාවත්කාලීන කිරීම අත්හිටුවයි](https://tecroom.lk/apple-suspends-ios-17-3-beta-2-update-boot-loop-issues/)
 - [Channel වලට අලුත් Adminලා එකතු කල හැකි නවතම WhatsApp Beta Update එක](https://tecroom.lk/whatsapp-beta-update-add-channel-admins/)
 - [වසර 14 කට පසුව Omegle සේවාව නවතා දැමේ](https://tecroom.lk/omegle-anonymous-video-chat-shut-down-online-safety/)
 - [Dialog Axiata ශ්‍රී ලංකාවේ පළමු වරට Voice Over 5G &lpar;VoNR&rpar; සේවාව සාර්ථකව අත්හදා බලයි](https://tecroom.lk/dialog-axiata-successfully-trials-voice-over-5g-service/)
-- [Video Generation වැඩවලට හොඳම AI Video Generators 10ය &lpar;Text-to-Video AI Tools&rpar;](https://tecroom.lk/best-ai-video-generators/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
