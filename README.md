@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [iPhone සඳහා නව AI Features ලබාදීමට Google Gemini සහය ලබාගැනීමට සුදානම් වේ](https://tecroom.lk/apple-eyeing-google-gemini-for-iphones-new-ai-features/)
 - [Microsoft සමාගමේ සහය ඇතිව ශ්‍රී ලංකාවේ පාසල්වල AI විෂය ඉගැන්වීම සඳහා නියමු ව්‍යාපෘතියක් ආරම්භ කරයි](https://tecroom.lk/sri-lanka-to-begin-pilot-project-with-microsoft-to-teach-ai-in-schools/)
 - [ඔයාගේ Website එකේ Ranking වැඩි කරගන්න SEO Techniques පහක්](https://tecroom.lk/five-seo-techniques-to-improve-your-site-ranking/)
 - [Google Search වෙතින් ‘Cached’ Web Pages පෙන්වීම නවත්වා දමයි](https://tecroom.lk/google-search-will-no-longer-show-cached-web-pages/)
 - [Lumiere, AI Video Generators අතරට එක්වන නවතම Google AI නිමැවු​ම](https://tecroom.lk/google-lumiere-ai-video-generation-runway-pika/)
-- [ලේසියෙන් පහසුවෙන් වැඩ කරගන්න AI Tools ගොන්නක්](https://tecroom.lk/best-ai-productivity-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
