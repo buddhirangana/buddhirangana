@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instagram වෙතට TikTok වෙතින් TikTok Notes යන නමින් අලුත් ප්‍රතිවාදියෙක් හඳුන්වාදෙයි](https://tecroom.lk/tiktok-notes-photo-sharing-app-rival-instagram/)
 - [iPhone සඳහා නව AI Features ලබාදීමට Google Gemini සහය ලබාගැනීමට සුදානම් වේ](https://tecroom.lk/apple-eyeing-google-gemini-for-iphones-new-ai-features/)
 - [Microsoft සමාගමේ සහය ඇතිව ශ්‍රී ලංකාවේ පාසල්වල AI විෂය ඉගැන්වීම සඳහා නියමු ව්‍යාපෘතියක් ආරම්භ කරයි](https://tecroom.lk/sri-lanka-to-begin-pilot-project-with-microsoft-to-teach-ai-in-schools/)
 - [ඔයාගේ Website එකේ Ranking වැඩි කරගන්න SEO Techniques පහක්](https://tecroom.lk/five-seo-techniques-to-improve-your-site-ranking/)
 - [Google Search වෙතින් ‘Cached’ Web Pages පෙන්වීම නවත්වා දමයි](https://tecroom.lk/google-search-will-no-longer-show-cached-web-pages/)
-- [Lumiere, AI Video Generators අතරට එක්වන නවතම Google AI නිමැවු​ම](https://tecroom.lk/google-lumiere-ai-video-generation-runway-pika/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
