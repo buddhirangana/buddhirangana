@@ -54,11 +54,11 @@
 ## ✍ Recent Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple හි Genmoji සමග සටනට එන Google Pixel 9 සමග එන Custom AI Sticker App එක](https://tecroom.lk/google-creative-assistant-create-ai-stickers/)
 - [Genmoji, Apple හි iOS 18 සමඟ එන AI-Powered Emoji Creation කිරීමේ විශේෂාංගය](https://tecroom.lk/apple-genmoji-ai-emoji/)
 - [XM COPY TRADING සමග ස්මාර්ට් ලෙස ට්‍රේඩ් කරන්න](https://tecroom.lk/trade-smart-with-xm-copy-trading/)
 - [Instagram වෙතට TikTok වෙතින් TikTok Notes යන නමින් අලුත් ප්‍රතිවාදියෙක් හඳුන්වාදෙයි](https://tecroom.lk/tiktok-notes-photo-sharing-app-rival-instagram/)
 - [iPhone සඳහා නව AI Features ලබාදීමට Google Gemini සහය ලබාගැනීමට සුදානම් වේ](https://tecroom.lk/apple-eyeing-google-gemini-for-iphones-new-ai-features/)
-- [Microsoft සමාගමේ සහය ඇතිව ශ්‍රී ලංකාවේ පාසල්වල AI විෂය ඉගැන්වීම සඳහා නියමු ව්‍යාපෘතියක් ආරම්භ කරයි](https://tecroom.lk/sri-lanka-to-begin-pilot-project-with-microsoft-to-teach-ai-in-schools/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Statistics
