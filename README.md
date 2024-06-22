@@ -25,15 +25,6 @@
 - ⚡️ Fun-Fact: I love to explore new technologies;
 - 📫 How to reach me: <a href="https://twitter.com/buddhirangana">Buddhi Rangana</a>;
 
-<p align="center"> 
-  <a href="https://github.com/buddhirangana?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/buddhirangana?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/buddhirangana?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/buddhirangana?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-
-<br/>
-
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
