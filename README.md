@@ -79,11 +79,18 @@
 </details>
 
 <details>
+  <summary><b>🏆 GitHub Trophies</b></summary>
+
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=buddhirangana&theme=algolia">
+</details>
+
+<details>
   <summary><b>✍ Recent Blog posts</b></summary>
 
   <br />
-  < BLOG-POST-LIST:START >
-  < BLOG-POST-LIST:END >
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </details>
 
 #
