@@ -70,15 +70,20 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buddhirangana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=algolia" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhirangana&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=algolia"/>
 </details>
-  ![Buddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=buddhirangana&count_private=true&show_icons=true&theme=algolia)
-  ![Buddhi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=buddhirangana&layout=compact&langs_count=6&theme=algolia)
-</details>
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=buddhirangana&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=buddhirangana&hide_border=true&theme=algolia" />
+</details>
+
+<details>
+  <summary><b>✍ Recent Blog posts</b></summary>
+
+  <br />
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </details>
 
 #
