@@ -4,6 +4,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/buddhirangana/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.linkedin.com/in/buddhirangana/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:info.buddhirangana@gmail.com)
+<a href="https://t.me/buddhirangana"> ![contact](https://img.shields.io/badge/Contact%20Me-On%20Telegram-blue) </a>
+<a href="https://tecroom.lk">![contact](https://img.shields.io/badge/Visit%20Web-tecroom.lk-yellow) </a>
+<a href="https://buddhirangana.github.io">![contact](https://img.shields.io/badge/Visit%20Web-buddhirangana.github.io-green) </a>
 
 &nbsp;
 
@@ -76,5 +79,4 @@
 </details>
 
 #
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=buddhirangana.visitor-badge&left_text=My%20Page%20Visitors)
+![Profile Views](https://komarev.com/ghpvc/?username=buddhirangana&color=green)
