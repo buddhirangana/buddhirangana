@@ -25,6 +25,8 @@
 - ⚡️ Fun-Fact: I love to explore new technologies;
 - 📫 How to reach me: <a href="https://twitter.com/buddhirangana">Buddhi Rangana</a>;
 
+<br/>
+  
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
