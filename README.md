@@ -82,8 +82,8 @@
   <summary><b>✍ Recent Blog posts</b></summary>
 
   <br />
-  <blog-post-list:start>
-  <blog-post-list:end>
+  < BLOG-POST-LIST:START >
+  < BLOG-POST-LIST:END >
 </details>
 
 #
