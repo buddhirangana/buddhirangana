@@ -13,13 +13,13 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on Nāgānanda International Institute for Buddhist Studies (NIIBS) and TEC ROOM;
-- 🌱 I’m currently learning Flutter Mobile App Development;
+- 👨🏽‍💻 I’m currently working on TEC ROOM;
+- 🌱 I’m currently learning Flutter;
 - 👯 I’m looking to collaborate on community projects;
 - 🤔 I’m looking for help with my community projects;
 - 💬 Ask me about anything, I am happy to help;
 - 😄 Pronouns: He/Him
-- ⚡️ Fun-Fact: I love to explore new technologies and try to solve real-life problems;
+- ⚡️ Fun-Fact: I love to explore new technologies;
 - 📫 How to reach me: <a href="https://twitter.com/buddhirangana">Buddhi Rangana</a>;
 
 <p align="center"> 
