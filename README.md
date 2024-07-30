@@ -83,11 +83,11 @@
 
   <br />
   <!-- BLOG-POST-LIST:START -->
+- [ඉංජිනේරුවෙක් හදපු හතරැස් රෝද ඇති විස්මිත බයිසිකලය](https://tecroom.lk/best-engineer-builds-a-bicycle-with-square-tyres/)
 - [Apple හි Genmoji සමග සටනට එන Google Pixel 9 සමග එන Custom AI Sticker App එක](https://tecroom.lk/google-creative-assistant-create-ai-stickers/)
 - [Genmoji, Apple හි iOS 18 සමඟ එන AI-Powered Emoji Creation කිරීමේ විශේෂාංගය](https://tecroom.lk/apple-genmoji-ai-emoji/)
 - [XM COPY TRADING සමග ස්මාර්ට් ලෙස ට්‍රේඩ් කරන්න](https://tecroom.lk/trade-smart-with-xm-copy-trading/)
 - [Instagram වෙතට TikTok වෙතින් TikTok Notes යන නමින් අලුත් ප්‍රතිවාදියෙක් හඳුන්වාදෙයි](https://tecroom.lk/tiktok-notes-photo-sharing-app-rival-instagram/)
-- [iPhone සඳහා නව AI Features ලබාදීමට Google Gemini සහය ලබාගැනීමට සුදානම් වේ](https://tecroom.lk/apple-eyeing-google-gemini-for-iphones-new-ai-features/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
