@@ -83,11 +83,11 @@
 
   <br />
   <!-- BLOG-POST-LIST:START -->
+- [XM ද්විත්ව තැන්පතු ප්‍රවර්ධනය – තැන්පතු මත දෙගුණයක අගයක් ලබාගන්න](https://tecroom.lk/xm-double-deposit-promotion/)
 - [Starlink ආයතනයට ශ්‍රී ලංකාව තුළ කටයුතු කිරීමට අවසර](https://tecroom.lk/starlink-gets-license-to-operate-in-sri-lanka/)
 - [ඉංජිනේරුවෙක් හදපු හතරැස් රෝද ඇති විස්මිත බයිසිකලය](https://tecroom.lk/best-engineer-builds-a-bicycle-with-square-tyres/)
 - [Apple හි Genmoji සමග සටනට එන Google Pixel 9 සමග එන Custom AI Sticker App එක](https://tecroom.lk/google-creative-assistant-create-ai-stickers/)
 - [Genmoji, Apple හි iOS 18 සමඟ එන AI-Powered Emoji Creation කිරීමේ විශේෂාංගය](https://tecroom.lk/apple-genmoji-ai-emoji/)
-- [XM COPY TRADING සමග ස්මාර්ට් ලෙස ට්‍රේඩ් කරන්න](https://tecroom.lk/trade-smart-with-xm-copy-trading/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
