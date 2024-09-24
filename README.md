@@ -91,7 +91,7 @@
 
 <br/>
 
-### Projects and Dev Stuffs:
+## 💻 Dev Stuffs
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
