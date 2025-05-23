@@ -17,7 +17,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on <a href="https://digifox.lk/">DigiFox</a> & <a href="https://tecroom.lk/">TEC ROOM</a>;
-- 🌱 I’m currently learning Flutter;
+- 🌱 I’m currently learning Flutter & React;
 - 👯 I’m looking to collaborate on community projects;
 - 🤔 I’m looking for help with my community projects;
 - 💬 Ask me about anything, I am happy to help;
