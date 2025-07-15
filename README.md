@@ -56,11 +56,11 @@
 
   <br />
   <!-- BLOG-POST-LIST:START -->
+- [XM වෙතින් සිය 15 වන සංවත්සරය වෙනුවෙන් අසීමිත ට්‍රේඩින් කෑෂ්බැක්!](https://tecroom.lk/xm-celebrates-its-15th-anniversary-with-unlimited-trading-cashback/)
 - [Benchmark අතික්‍රමණය කරන බලවත් AI එකක් OpenAI සමාගමෙන්](https://tecroom.lk/openai-preps-o3-reasoning-model/)
 - [Google Docs වෙත Gemini AI එක් කිරීමට Google සමාගම කටයුතු කරයි](https://tecroom.lk/google-docs-help-me-create-gemini-ai/)
 - [WhatsApp වලට අලුතින් එක්වන Read All Messages විශේෂාංගය](https://tecroom.lk/whatsapp-brings-read-all-messages-feature/)
 - [XM ද්විත්ව තැන්පතු ප්‍රවර්ධනය – තැන්පතු මත දෙගුණයක අගයක් ලබාගන්න](https://tecroom.lk/xm-double-deposit-promotion/)
-- [Starlink ආයතනයට ශ්‍රී ලංකාව තුළ කටයුතු කිරීමට අවසර](https://tecroom.lk/starlink-gets-license-to-operate-in-sri-lanka/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
