@@ -56,7 +56,7 @@
 
   <br />
   <!-- BLOG-POST-LIST:START -->
-- [XM Traders Club සමඟින් සෑම ට්‍රේඩ් එකක්ම ප්‍රතිලාභ බවට පත් කරගන්න](https://tecroom.lk/xm-traders-club-%e0%b7%83%e0%b6%b8%e0%b6%9f%e0%b7%92%e0%b6%b1%e0%b7%8a-%e0%b7%83%e0%b7%91%e0%b6%b8-%e0%b6%a7%e0%b7%8a%e0%b6%bb%e0%b7%9a%e0%b6%a9%e0%b7%8a-%e0%b6%91%e0%b6%9a%e0%b6%9a%e0%b7%8a/)
+- [XM Traders Club සමඟින් සෑම ට්‍රේඩ් එකක්ම ප්‍රතිලාභ බවට පත් කරගන්න](https://tecroom.lk/turn-every-trade-into-a-profit-with-xm-traders-club/)
 - [XM වෙතින් සිය 15 වන සංවත්සරය වෙනුවෙන් අසීමිත ට්‍රේඩින් කෑෂ්බැක්!](https://tecroom.lk/xm-celebrates-its-15th-anniversary-with-unlimited-trading-cashback/)
 - [Benchmark අතික්‍රමණය කරන බලවත් AI එකක් OpenAI සමාගමෙන්](https://tecroom.lk/openai-preps-o3-reasoning-model/)
 - [Google Docs වෙත Gemini AI එක් කිරීමට Google සමාගම කටයුතු කරයි](https://tecroom.lk/google-docs-help-me-create-gemini-ai/)
