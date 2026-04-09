@@ -31,24 +31,12 @@
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buddhirangana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=algolia" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhirangana&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=algolia"/>
-</details>
-
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=buddhirangana&hide_border=true&theme=algolia" />
-</details>
-
-<details>
-  <summary><b>🏆 GitHub Trophies</b></summary>
-
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=buddhirangana&theme=algolia">
+    <hr style="height:1px; border-width:0; color:rgb(0, 0, 0); background-color:rgb(0, 0, 0)">
+    <p align="center">
+      <img src="https://yourinsights.vercel.app/api/insight?username=buddhirangana" alt="GitHub Insights" />
+    </p>
+    <br><br>
+    <hr style="height:1px; border-width:0; color:rgb(0, 0, 0); background-color:rgb(0, 0, 0)">
 </details>
 
 <details>
