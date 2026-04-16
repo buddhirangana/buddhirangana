@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:info.buddhirangana@gmail.com)
 <a href="https://t.me/buddhirangana"> ![contact](https://img.shields.io/badge/Contact%20Me-On%20Telegram-blue)</a>
 <a href="https://tecroom.lk">![contact](https://img.shields.io/badge/Visit%20Web-tecroom.lk-yellow)</a>
-<a href="https://buddhirangana.github.io">![contact](https://img.shields.io/badge/Visit%20Web-buddhirangana.github.io-green)</a>
+<a href="https://buddhirangana.com/">![contact](https://img.shields.io/badge/Visit%20Web-buddhirangana.com-green)</a>
 
 &nbsp;
 
@@ -16,8 +16,8 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on <a href="https://digifox.lk/">DigiFox</a> & <a href="https://tecroom.lk/">TEC ROOM</a>;
-- 🌱 I’m currently learning Flutter & React;
+- 👨🏽‍💻 I’m currently working on <a href="https://digifox.lk/">DigiFox Technologies</a> & <a href="https://tecroom.lk/">TEC ROOM</a>;
+- 🌱 I’m currently learning React & Next.js;
 - 👯 I’m looking to collaborate on community projects;
 - 🤔 I’m looking for help with my community projects;
 - 💬 Ask me about anything, I am happy to help;
